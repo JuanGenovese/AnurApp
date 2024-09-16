@@ -1,0 +1,70 @@
+{
+    "id": "12",
+    "clave": "boana_riojana",
+    "imagenes": [
+        {
+            "nombre": "boana_riojana",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "boana_riojana1",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "boana_riojana2",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "boana_riojana3",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "boana_riojana4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Boana riojana",
+    "nvulgar": "Rana del zarzal",
+    "familia": "Hylidae",
+    "tamano": "Pequeño (45 a 50 mm)",
+    "habitat": "Acuático",
+    "habito": "Crepuscular y nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "fill",
+    "may": "fill",
+    "jun": "fill",
+    "jul": "fill",
+    "ago": "fill",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal muy variable, desde verde intenso, dorado u ocre completamente uniforme hasta combinaciones con manchas irregulares negras, marrones, doradas o blanquecinas. Patas muy largas y delgadas. Laterales y parte anterior y posterior de los muslos y patas de color celeste o amarrilento con barras oscuras. Vientre claro y muy granular. Tímpano distinguible, de coloración y textura distinta a la piel del resto del cuerpo. Discos adhesivos de los dedos de aspecto circular. Machos con una prolongación en forma de espina en el dedo pulgar de la mano.",
+    "microhabitats": "Se los observa en el borde de ríos, arroyos o represas. Cantan desde la vegetación o sobre piedras parcialmente ocultos. Son más abundantes durante los meses más fríos y con menor precipitaciones, aunque es posible escucharlos todo el año.",
+    "rangoaltitud": "400 a 4180 m",
+    "ecoregion": "Yungas, Chaco Seco, Puna y Monte de Sierras y Bolsones",
+    "distrigeneral": "Bolivia y Argentina; posiblemente Perú",
+    "distriargentina": "Salta, Jujuy, Tucumán, Catamarca y La Rioja",
+    "modoreproductivo": "Ponen sus huevos en remansos de arroyos. Depositan sus huevos en una única masa de huevos de color negro adheridos a la vegetación semisumergida, a grandes piedras o directamente en el fondo pedregoso. La puesta se asemeja a una gran mora.",
+    "similares": {
+        "similarid": [
+            "11"
+        ],
+        "similarncientifico": [
+            "Boana raniceps"
+        ],
+        "similarnvulgar": [
+            "Rana trepadora del Chaco"
+        ],
+        "similarclave": [
+            "boana_raniceps"
+        ]
+    }
+}

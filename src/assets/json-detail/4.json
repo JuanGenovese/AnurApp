@@ -1,0 +1,86 @@
+{
+    "id": "4",
+    "clave": "rhinella_rumbolli",
+    "imagenes": [
+        {
+            "nombre": "rhinella_rumbolli",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "rhinella_rumbolli1",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "rhinella_rumbolli2",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "rhinella_rumbolli3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "rhinella_rumbolli4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Rhinella rumbolli",
+    "nvulgar": "Sapo yungueño de rumboll",
+    "familia": "Bufonidae",
+    "tamano": "Pequeño a mediano (40 a 70 mm)",
+    "habitat": "Terrestre",
+    "habito": "Diurno, nocturno",
+    "conservauicn": "#cddc39",
+    "conservaarg": "#ffcc00",
+    "abundancia": "#ffcc00",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "fill",
+    "may": "fill",
+    "jun": "fill",
+    "jul": "fill",
+    "ago": "fill",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal marrón clara con diseños oscuros y línea media clara que se extiende desde el hocico hasta la cloaca. Presenta grandes glándulas ubicadas por arriba o por detrás del tímpano, de forma redondeada. Coloración ventral marrón oscura con puntos mas claros.",
+    "microhabitats": "Los machos cantan semisumergidos en las orillas de ríos y arroyos de montaña.",
+    "rangoaltitud": "500 a 1800 msnm",
+    "ecoregion": "Yungas",
+    "distrigeneral": "Argentina y posiblemente Bolivia",
+    "distriargentina": "Jujuy y Salta",
+    "modoreproductivo": "Depositan grupos de más de 2000 huevos de color negro adheridos entre sí. Las puestas son colocadas en el fondo de agua estancada de arroyos y ríos.",
+    "similares": {
+        "similarid": [
+            "1",
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "similarncientifico": [
+            "Rhinella arenarum arenarum",
+            "Rhinella gallardoi",
+            "Rhinella major",
+            "Rhinella diptycha",
+            "Rhinella spinulosa"
+        ],
+        "similarnvulgar": [
+            "Sapo común",
+            "Sapo yungueño grande",
+            "Sapito cavador chaqueño",
+            "Rococó",
+            "Sapo andino"
+        ],
+        "similarclave": [
+            "rhinella_arenarum_arenarum",
+            "rhinella_gallardoi",
+            "rhinella_major",
+            "rhinella_diptycha",
+            "rhinella_spinulosa"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "id": "35",
+    "clave": "odontophrynus_lavillai",
+    "imagenes": [
+        {
+            "nombre": "odontophrynus_lavillai",
+            "copyright": ""
+        }
+    ],
+    "ncientifico": "Odontophrynus lavillai",
+    "nvulgar": "Escuercito",
+    "familia": "Odontophrynae",
+    "tamano": "Mediano (60 a 70 mm)",
+    "habitat": "Terrestre y fosorial",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración del dorso marrón con numerosas manchas irregulares más blanquecinos-amarillentas o anaranjadas, alternando con grandes manchas de color marrón oscuro. Piel dorsal rugosa y granular. No posee línea media clara en el dorso. Vientre negruzco con gránulos blancos redondeados. Muy similar a Odontophrynus americanus, se diferencia del mismo por poseer pupila rómbica.",
+    "microhabitats": "Sus apariciones son repentinas coincidiendo con lluvias fuertes. Se los observa cantando dentro de los cuerpos de agua o semienterrado a orillas de los cuerpos de agua.",
+    "rangoaltitud": "150 a 2100 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Bolivia, Brasil y Paraguay",
+    "distriargentina": "Catamarca, Chaco, Formosa, Jujuy, Salta, Santa Fe, Santiago del Estero",
+    "modoreproductivo": "Los huevos son colocados sueltos directamente sobre el fondo del cuerpo de agua.",
+    "similares": {
+        "similarid": [
+            "34"
+        ],
+        "similarncientifico": [
+            "Odontophrynus americanus"
+        ],
+        "similarnvulgar": [
+            "Escuercito"
+        ],
+        "similarclave": [
+            "odontophrynus_americanus"
+        ]
+    }
+}

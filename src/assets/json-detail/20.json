@@ -1,0 +1,90 @@
+{
+    "id": "20",
+    "clave": "leptodactylus_elenae",
+    "imagenes": [
+        {
+            "nombre": "leptodactylus_elenae",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_elenae1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_elenae2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_elenae3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_elenae4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Leptodactylus elenae",
+    "nvulgar": "Rana marmorada",
+    "familia": "Leptodactylidae",
+    "tamano": "Pequeño (49 a 55 mm)",
+    "habitat": "Terrestre y fosorial",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "outline",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso con cuatro pliegues longitudinales resaltados con líneas blancas y negras. En el lateral de la cabeza con dos bandas oscuras separadas por una banda clara. Entre los ojos presenta una mancha en forma de mariposa. Parte posterior de los muslos con una banda longitudinal clara blanca amarillenta con barras. Machos con saco vocal oscuros y expandido lateralmente.",
+    "microhabitats": "Los machos cantan sobre el suelo semiocultos en la vegetación baja de los bordes de pequeños charcos de agua de lluvia.",
+    "rangoaltitud": "Hasta 1000 msnm",
+    "ecoregion": "Chaco Seco y Yungas ",
+    "distrigeneral": "Argentina, Bolivia, Paraguay, Brasil",
+    "distriargentina": "Chaco, Corrientes, Entre Ríos, Formosa, Jujuy, Misiones, Salta, Santa Fe, Santiago del Estero",
+    "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+    "similares": {
+        "similarid": [
+            "18",
+            "19",
+            "21",
+            "22",
+            "23",
+            "24"
+        ],
+        "similarncientifico": [
+            "Leptodactylus bufonius",
+            "Juveniles de Leptodactylus macrosternum",
+            "Leptodactylus fuscus",
+            "Leptodactylus gracilis",
+            "Leptodactylus latinasus",
+            "Leptodactylus apepyta"
+        ],
+        "similarnvulgar": [
+            "Rana de labios blancos",
+            "Rana criolla",
+            "Rana colorada",
+            "Rana hocicuda",
+            "Ranita de las banquinas",
+            "Rana de bigotes"
+        ],
+        "similarclave": [
+            "leptodactylus_bufonius",
+            "leptodactylus_macrosternum",
+            "leptodactylus_fuscus",
+            "leptodactylus_gracilis",
+            "leptodactylus_latinasus",
+            "leptodactylus_apepyta"
+        ]
+    }
+}

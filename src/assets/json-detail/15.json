@@ -1,0 +1,66 @@
+{
+    "id": "15",
+    "clave": "scinax_fuscovarius",
+    "imagenes": [
+        {
+            "nombre": "scinax_fuscovarius",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "scinax_fuscovarius1",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "scinax_fuscovarius2",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "scinax_fuscovarius3",
+            "copyright": "L. Pereyra"
+        }
+    ],
+    "ncientifico": "Scinax fuscovarius",
+    "nvulgar": "Rana trepadora",
+    "familia": "Hylidae",
+    "tamano": "Pequeño (41 a 48 mm)",
+    "habitat": "Arborícola y terrestre",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal marrón a verde amarillento con puntos o barras más oscuras de ubicación variable. Es constante la presencia de una mancha oscura detrás de la cabeza con forma de paréntesis abiertos. Vientre claro con manchas en garganta y parte anterior.",
+    "microhabitats": "Forman coros numeroros y muy ruidosos. Los machos cantan trepados a la vegetación sobre la costa de charcos o lagunas temporarias de poca profundidad.",
+    "rangoaltitud": "Hasta 2000 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Brasil, Paraguay, Bolivia, Uruguay",
+    "distriargentina": "Chaco, Corrientes, Formosa, Jujuy, Misiones,Salta, Santa Fe, Santiago del Estero y Tucumán",
+    "modoreproductivo": "Depositan huevos en masas adheridas a la vegetación en charcos poco profundos.",
+    "similares": {
+        "similarid": [
+            "16"
+        ],
+        "similarncientifico": [
+            "Scinax nasicus"
+        ],
+        "similarnvulgar": [
+            "Ranita hocicuda lisa"
+        ],
+        "similarclave": [
+            "scinax_nasicus"
+        ]
+    }
+}

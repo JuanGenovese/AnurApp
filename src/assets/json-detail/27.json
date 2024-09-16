@@ -1,0 +1,86 @@
+{
+    "id": "27",
+    "clave": "pleurodema_borellii",
+    "imagenes": [
+        {
+            "nombre": "pleurodema_borellii",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "pleurodema_borellii1",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "pleurodema_borellii2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "pleurodema_borellii3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "pleurodema_borellii4",
+            "copyright": "L. Pereyra"
+        }
+    ],
+    "ncientifico": "Pleurodema borellii",
+    "nvulgar": "Ranita cuatro ojos",
+    "familia": "Leptodactylidae",
+    "tamano": "Mediano (40 a 55 mm)",
+    "habitat": "Terrestre y acuático",
+    "habito": "Diurno, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso amarronado con grandes manchas alargadas mas claras con contornos negros. Presenta glándulas ubicadas a los laterales del cuerpo sobre las caderas de color blanquecino con una mancha central oscura que asemeja un ojo. Vientre claro con manchas oscuras. Región de la ingle, posterior de los muslos y axilas de color amarillo.",
+    "microhabitats": "Los machos cantan en el agua flotando entre la vegetación de charcos poco profundos, generalmente formados por agua de lluvia. Es común observalos en las orillas inundadas de los caminos. Los machos forman coros numerosos que pueden ser detectados a gran distancia.",
+    "rangoaltitud": "400 a 3000 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina y Bolivia",
+    "distriargentina": "Catamarca, Córdoba, Jujuy, La Rioja, Salta y Tucumán",
+    "modoreproductivo": "Construyen nidos de espuma flotante de alrededor de 13 cm. Los machos baten una secreción de albúmina formando así la espuma donde quedan inmersos los huevos. Es común encontrarse con varios nidos adheridos entre sí formando una gran masa de espuma que puede cubrir el charco por completo. Depositan en cada nido cerca de 2000 huevos de color negro.",
+    "similares": {
+        "similarid": [
+            "25",
+            "26",
+            "28",
+            "29",
+            "30"
+        ],
+        "similarncientifico": [
+            "Physalaemus biligonigerus",
+            "Pleuroderma albonotatus",
+            "Pleuroderma cinereum",
+            "Pleurodema marmoratum",
+            "Pleurodema tucumanum"
+        ],
+        "similarnvulgar": [
+            "Rana llorona",
+            "Ranita llorona",
+            "Ranita cuatro ojos de la puna",
+            "Sapo veteado de cuatro ojos",
+            "Ranita cuatro ojos"
+        ],
+        "similarclave": [
+            "physalaemus_biligonigerus",
+            "pleurodema_albonotatus",
+            "pleurodema_cinereum",
+            "pleurodema_marmoratum",
+            "pleurodema_tucumanum"
+        ]
+    }
+}

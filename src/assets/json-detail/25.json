@@ -1,0 +1,70 @@
+{
+    "id": "25",
+    "clave": "physalaemus_biligonigerus",
+    "imagenes": [
+        {
+            "nombre": "physalaemus_biligonigerus",
+            "copyright": "Laura Pereyra"
+        }
+    ],
+    "ncientifico": "Physalaemus biligonigerus",
+    "nvulgar": "Rana llorona",
+    "familia": "Leptodactylidae",
+    "tamano": "Pequeño (35 a 40 mm)",
+    "habitat": "Terrestre y acuático",
+    "habito": "Diurno, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Cuerpo globoso y piel lisa. Coloración dorsal variable, de verdoso a amarronado, uniforme o con patrón de manchas. Línea glandular con forma de Ω en el dorso. Presenta glándulas ubicadas a los laterales del cuerpo sobre las caderas de color blanquecino con una mancha central oscura que asemeja un ojo. Vientre blanco.",
+    "microhabitats": "Se los encuentra en charcos, cursos de agua pequeños o lagunas, formando grandes coros muy fáciles de localizar. Los machos cantan sumergidos en los cuerpos de agua. Su canto se asemeja al llanto de un bebe.",
+    "rangoaltitud": "Hasta 1700 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Bolivia, Paraguay, Uruguay, Brasil",
+    "distriargentina": "Buenos Aires, Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Misiones, Salta, San Luis, Santa Fe, Santiago del Estero y Tucumán",
+    "modoreproductivo": "Construyen nidos de espuma flotantes de tamaño pequeño (7 a 10 cm). Los machos baten una secreción de albúmina formando así la espuma donde quedan inmersos los huevos. Los construyen adheridos a palos, piedras o vegetación baja. Depositan entre 1000 y 1200 huevos de color blanco a gris que se confunden con la espuma.",
+    "similares": {
+        "similarid": [
+            "26",
+            "27",
+            "28",
+            "29",
+            "30"
+        ],
+        "similarncientifico": [
+            "Physalaemus albonotatus",
+            "Pleuroderma borellii",
+            "Pleuroderma cinereum",
+            "Pleurodema marmoratum",
+            "Pleurodema tucumanum"
+        ],
+        "similarnvulgar": [
+            "Ranita llorona",
+            "Ranita cuatro ojos",
+            "Ranita cuatro ojos de la puna",
+            "Sapo veteado de cuatro ojos",
+            "Ranita cuatro ojos"
+        ],
+        "similarclave": [
+            "physalaemus_albonotatus",
+            "pleurodema_borellii",
+            "pleurodema_cinereum",
+            "pleurodema_marmoratum",
+            "pleurodema_tucumanum"
+        ]
+    }
+}

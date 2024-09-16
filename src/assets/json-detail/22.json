@@ -1,0 +1,90 @@
+{
+    "id": "22",
+    "clave": "leptodactylus_gracilis",
+    "imagenes": [
+        {
+            "nombre": "leptodactylus_gracilis",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_gracilis1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_gracilis2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_gracilis3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_gracilis4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Leptodactylus gracilis",
+    "nvulgar": "Rana hocicuda",
+    "familia": "Leptodactylidae",
+    "tamano": "Pequeño (45 a 50mm)",
+    "habitat": "Terrestre y fosorial",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#ffcc00",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso con seis pliegues longitudinales. Coloración dorsal verde amarillenta con líneas longitudinales claras. Región visible de las tibias con dos líneas longitudinales claras encima de barras transversales. Vientre liso blanco-amarillento.",
+    "microhabitats": "Los machos cantan desde el interior de las cuevas que construyen para poner los huevos. Se los encuentra en áreas cercanas a los charcos de los costados del camino.",
+    "rangoaltitud": "Hasta 2000 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Brasil, Uruguay, Paraguay y Bolivia.",
+    "distriargentina": "Buenos Aires, Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, Misiones, Salta, San Luis, Santa Fe, Santiago del Estero y Tucumán.",
+    "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+    "similares": {
+        "similarid": [
+            "18",
+            "19",
+            "20",
+            "21",
+            "23",
+            "24"
+        ],
+        "similarncientifico": [
+            "Leptodactylus bufonius",
+            "Juveniles de Leptodactylus macrosternum",
+            "Leptodactylus elenae",
+            "Leptodactylus fuscus",
+            "Leptodactylus latinasus",
+            "Leptodactylus apepyta"
+        ],
+        "similarnvulgar": [
+            "Rana de labios blancos",
+            "Rana criolla",
+            "Rana marmorada",
+            "Rana colorada",
+            "Ranita de las banquinas",
+            "Rana de bigotes"
+        ],
+        "similarclave": [
+            "leptodactylus_bufonius",
+            "leptodactylus_macrosternum",
+            "leptodactylus_elenae",
+            "leptodactylus_fuscus",
+            "leptodactylus_latinasus",
+            "leptodactylus_apepyta"
+        ]
+    }
+}

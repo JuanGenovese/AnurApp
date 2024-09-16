@@ -1,0 +1,90 @@
+{
+    "id": "21",
+    "clave": "leptodactylus_fuscus",
+    "imagenes": [
+        {
+            "nombre": "leptodactylus_fuscus",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "leptodactylus_fuscus1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_fuscus2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_fuscus3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_fuscus4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Leptodactylus fuscus",
+    "nvulgar": "Rana colorada",
+    "familia": "Leptodactylidae",
+    "tamano": "Mediano (50 a 55 mm)",
+    "habitat": "Fosorial",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "fill",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso con seis pliegues longitudinales. Coloración dorsal gris amarronado con tinte cobrizo o rojizo en ciertas áreas del cuerpo; manchas irregulares más oscuras y una de forma triangular entre los ojos. Algunos ejemplares con una línea central clara. En las tibias presentan bandas transversales oscuras.",
+    "microhabitats": "Los machos cantan sobre el suelo expuestos, semiocultos en la vegetación o refugiados en las cuevas. Se los encuentra próximos a charcos temporarios o en playas inundables de ríos y arroyos.",
+    "rangoaltitud": "Hasta 2000 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Brasil, Bolivia, Colombia, Guayana Francesa, Guayana, Panamá, Paraguay, Perú, Suriname, Trinidad y Tobago y Venezuela.",
+    "distriargentina": "Chaco, Corrientes, Entre Ríos, Misiones, Formosa, Jujuy,Salta, Santa Fe, Santiago del Estero y Tucumán",
+    "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+    "similares": {
+        "similarid": [
+            "18",
+            "19",
+            "20",
+            "22",
+            "23",
+            "24"
+        ],
+        "similarncientifico": [
+            "Leptodactylus bufonius",
+            "Juveniles de Leptodactylus macrosternum",
+            "Leptodactylus elenae",
+            "Leptodactylus gracilis",
+            "Leptodactylus latinasus",
+            "Leptodactylus apepyta"
+        ],
+        "similarnvulgar": [
+            "Rana de labios blancos",
+            "Rana criolla",
+            "Rana marmorada",
+            "Rana hocicuda",
+            "Ranita de las banquinas",
+            "Rana de bigotes"
+        ],
+        "similarclave": [
+            "leptodactylus_bufonius",
+            "leptodactylus_macrosternum",
+            "leptodactylus_elenae",
+            "leptodactylus_gracilis",
+            "leptodactylus_latinasus",
+            "leptodactylus_apepyta"
+        ]
+    }
+}

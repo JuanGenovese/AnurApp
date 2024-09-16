@@ -1,0 +1,74 @@
+{
+    "id": "30",
+    "clave": "pleurodema_tucumanum",
+    "imagenes": [
+        {
+            "nombre": "pleurodema_tucumanum",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "pleurodema_tucumanum1",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Pleurodema tucumanum",
+    "nvulgar": "Ranita cuatro ojos",
+    "familia": "Leptodactylidae",
+    "tamano": "Pequeño (40 a 45 mm)",
+    "habitat": "Terrestre",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso amarronado a rojizo con manchas o puntos negros. Presenta glándulas chatas y poco evidentes ubicadas a los laterales del cuerpo sobre las caderas cuya coloración no se destaca del resto del cuerpo. Vientre blanco inmaculado. Región de la ingle, posterior de los muslos y axilas de color anaranjado.",
+    "microhabitats": "Los machos cantan desde la costa o flotando en el interior de los cuerpos de agua temporarios.",
+    "rangoaltitud": "80 a 1258 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina",
+    "distriargentina": "Catamarca, Córdoba, Jujuy, La Rioja, Salta, San Juan, San Luis, Santiago del Estero y Tucumán",
+    "modoreproductivo": "Construyen nidos de espuma que colapsan al poco tiempo dejando una masa gelatinosa en donde los huevos se disponen en un solo plano.",
+    "similares": {
+        "similarid": [
+            "25",
+            "26",
+            "27",
+            "28",
+            "29"
+        ],
+        "similarncientifico": [
+            "Physalaemus biligonigerus",
+            "Pleuroderma albonotatus",
+            "Pleuroderma borellii",
+            "Pleurodema cinereum",
+            "Pleurodema marmoratum"
+        ],
+        "similarnvulgar": [
+            "Rana llorona",
+            "Ranita llorona",
+            "Ranita cuatro ojos",
+            "Ranita cuatro ojos de la puna",
+            "Sapo veteado de cuatro ojos"
+        ],
+        "similarclave": [
+            "physalaemus_biligonigerus",
+            "pleurodema_albonotatus",
+            "pleurodema_borellii",
+            "pleurodema_cinereum",
+            "pleurodema_marmoratum"
+        ]
+    }
+}

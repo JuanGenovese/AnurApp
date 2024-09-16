@@ -1,0 +1,41 @@
+{
+    "id": "10",
+    "clave": "gastrotheca_christiani",
+    "imagenes": [
+        {
+            "nombre": "gastrotheca_christiani",
+            "copyright": "M. Vaira"
+        }
+    ],
+    "ncientifico": "Gastrotheca christiani",
+    "nvulgar": "Rana marsupial de Calilegua",
+    "familia": "Hemiphractidae",
+    "tamano": "Pequeño (30 a 40 mm)",
+    "habitat": "Terrestre",
+    "habito": "Nocturno",
+    "conservauicn": "#ff3b30",
+    "conservaarg": "#ff3b30",
+    "abundancia": "#ff9500",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "fill",
+    "may": "fill",
+    "jun": "fill",
+    "jul": "fill",
+    "ago": "fill",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "La coloración dorsal varía del marrón claro al gris con pequeños círculos blancos u amarillos. También presenta manchas mas oscuras, una en forma de T entre los ojos. Dedos largos, con discos terminales y pequeña membrana en la base de los dedos. Vientre blancuzco con pequeñas manchas marrones, más numerosas en garganta y pecho. Hembras con un saco de piel en el dorso donde porta los huevos una vez fecundados, que se habre hacia posterior. En el dorso de los machos se observa un pliegue de piel en forma de herradura por sobre la cloaca.",
+    "microhabitats": "Por sus hábitos son difíciles de observar, ya que pasan la mayor parte del tiempo ocultas en grietas de paredes rocosas, en cavidades y troncos. Esta especie sólo vive en las selvas de las Yungas de Jujuy. Sin embargo, existe gran preocupación por su estado de conservación ya que no se la registra en la naturaleza desde el año 1996.",
+    "rangoaltitud": "1550 a 2700 msnm",
+    "ecoregion": "Yungas",
+    "distrigeneral": "Argentina",
+    "distriargentina": "Jujuy y Salta",
+    "modoreproductivo": "Depositan pocos huevos y grandes que son incubados en el saco dorsal que presentan las hembras. Allí se desarrollan los renacuajos hasta la metamorfosis, emergiendo como juveniles completamente formados.",
+    "similares": []
+}

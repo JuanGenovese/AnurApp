@@ -1,0 +1,90 @@
+{
+    "id": "18",
+    "clave": "leptodactylus_bufonius",
+    "imagenes": [
+        {
+            "nombre": "leptodactylus_bufonius",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_bufonius1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_bufonius2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_bufonius3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_bufonius4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Leptodactylus bufonius",
+    "nvulgar": "Rana de labios blancos",
+    "familia": "Leptodactylidae",
+    "tamano": "Mediano (60 a 65 mm)",
+    "habitat": "Terrestre y fosorial",
+    "habito": "Nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal gris a amarronada con manchas redondeadas negras brillantes bien definidas. Con glándulas que forman una cadena glandular en los laterales del cuerpo. Tímpanos grandes y transparentes. Vientre blanco.",
+    "microhabitats": "Los machos cantan desde las cavidades que construyen a orilla de charcos temporarios.",
+    "rangoaltitud": "Hasta 800 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Bolivia, Paraguay, Brasil y Argentina",
+    "distriargentina": "Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Rioja, Mendoza, Misiones, Salta, San Juan, San Luis, Santa Fe, Santiago del Estero y Tucumán.",
+    "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+    "similares": {
+        "similarid": [
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24"
+        ],
+        "similarncientifico": [
+            "Juveniles de Leptodactylus macrosternum",
+            "Leptodactylus elenae",
+            "Leptodactylus fuscus",
+            "Leptodactylus gracilis",
+            "Leptodactylus latinasus",
+            "Leptodactylus apepyta"
+        ],
+        "similarnvulgar": [
+            "Rana criolla",
+            "Rana marmorada",
+            "Rana colorada",
+            "Rana hocicuda",
+            "Ranita de las banquinas",
+            "Rana de bigotes"
+        ],
+        "similarclave": [
+            "leptodactylus_macrosternum",
+            "leptodactylus_elenae",
+            "leptodactylus_fuscus",
+            "leptodactylus_gracilis",
+            "leptodactylus_latinasus",
+            "leptodactylus_apepyta"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "id": "29",
+    "clave": "pleurodema_marmoratum",
+    "imagenes": [
+        {
+            "nombre": "pleurodema_marmoratum",
+            "copyright": "Diego Baldo"
+        }
+    ],
+    "ncientifico": "Pleurodema marmoratum",
+    "nvulgar": "Sapo veteado de cuatro ojos",
+    "familia": "Leptodactylidae",
+    "tamano": "Pequeño (30 a 35 mm)",
+    "habitat": "Terrestre",
+    "habito": "Diurno, nocturno, crepuscular",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso amarillento, gris a verde opaco con patrón de manchas brillantes más oscuras marrones. Vientre liso blanco o amarillento.",
+    "microhabitats": "Se los encuentra bajo piedras en zonas de altura.",
+    "rangoaltitud": "3000 a 5200 msnm",
+    "ecoregion": "Puna y Altos Andes",
+    "distrigeneral": "Perú, Bolivia, Chile y Argentina",
+    "distriargentina": "Jujuy",
+    "modoreproductivo": "No se conoce el modo reproductivo pero posiblemente depositen los huevos en masas gelatinosas en los cuerpos de agua.",
+    "similares": {
+        "similarid": [
+            "25",
+            "26",
+            "27",
+            "28",
+            "30"
+        ],
+        "similarncientifico": [
+            "Physalaemus biligonigerus",
+            "Pleuroderma albonotatus",
+            "Pleuroderma borellii",
+            "Pleurodema cinereum",
+            "Pleurodema tucumanum"
+        ],
+        "similarnvulgar": [
+            "Rana llorona",
+            "Ranita llorona",
+            "Ranita cuatro ojos",
+            "Ranita cuatro ojos de la puna",
+            "Ranita cuatro ojos"
+        ],
+        "similarclave": [
+            "physalaemus_biligonigerus",
+            "pleurodema_albonotatus",
+            "pleurodema_borellii",
+            "pleurodema_cinereum",
+            "pleurodema_tucumanum"
+        ]
+    }
+}

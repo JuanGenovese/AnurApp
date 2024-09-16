@@ -1,0 +1,82 @@
+{
+    "id": "39",
+    "clave": "telmatobius_marmoratus",
+    "imagenes": [
+        {
+            "nombre": "telmatobius_marmoratus",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_marmoratus1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_marmoratus2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_marmoratus3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_marmoratus4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Telmatobius marmoratus",
+    "nvulgar": "Rana acuática",
+    "familia": "Telmatobiidae",
+    "tamano": "Mediano (55 a 63 mm)",
+    "habitat": "Acuático y terrestre",
+    "habito": "Nocturno",
+    "conservauicn": "#ff9500",
+    "conservaarg": "#ffcc00",
+    "abundancia": "#cddc39",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "fill",
+    "may": "fill",
+    "jun": "fill",
+    "jul": "fill",
+    "ago": "fill",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal marrón o grisácea, con manchas más oscuras irregulares. Piel dorsal muy glandular. Coloración ventral amarillenta con manchas grises en las patas traseras. Tímpano ausente. Piel de aspecto húmedo. Membrana entre los dedos en las patas traseras.",
+    "microhabitats": "Se los observa en el agua en arroyos de alta montaña en la cuenca alta del Río Grande (desde Uquía), Yavi, Santa Catalina, Abra Pampa y La Quiaca.",
+    "rangoaltitud": "1800 a 5344 msnm",
+    "ecoregion": "Puna, Monte de Sierras y Bolsones y Altos Andes",
+    "distrigeneral": "Perú, Bolivia, Chile y Argentina",
+    "distriargentina": "Jujuy",
+    "modoreproductivo": "No se conoce el modo reproductivo, pero se sospecha que al igual que otros integrantes del género depositan masas de huevos insertos en una capa gelatinosa debajo de piedras en arroyos de montaña.",
+    "similares": {
+        "similarid": [
+            "38",
+            "40",
+            "41",
+            "42"
+        ],
+        "similarncientifico": [
+            "Telmatobius hypselocephalus",
+            "Telmatobius oxycephalus",
+            "Telmatobius platycephalus",
+            "Telmatobius rubigo"
+        ],
+        "similarnvulgar": [
+            "Rana acuática Yungueña",
+            "Rana acuática",
+            "Rana acuática marmolada",
+            "Rana herrumbrada de Pozuelos"
+        ],
+        "similarclave": [
+            "telmatobius_hypselocephalus",
+            "telmatobius_oxycephalus",
+            "telmatobius_platycephalus",
+            "telmatobius_rubigo"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "7",
+    "clave": "ceratophrys_cranwelli",
+    "imagenes": [
+        {
+            "nombre": "ceratophrys_cranwelli",
+            "copyright": "M. Vaira"
+        },
+        {
+            "nombre": "ceratophrys_cranwelli1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "ceratophrys_cranwelli2",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Ceratophrys cranwelli",
+    "nvulgar": "Escuerzo chaqueño",
+    "familia": "Ceratophryidae",
+    "tamano": "Grande (75 a 130 mm)",
+    "habitat": "Terrestre y fosorial",
+    "habito": "Nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#ffcc00",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "De cuerpo robusto de aspecto globoso y patas cortas. Una característica distintiva son las proyecciones similares a cuernos sobre los ojos. Su piel dorsal es granulosa, de color marrón o verde claro con manchas oscuras alargadas y poco notorias, bordeadas de claro. El vientre liso blanquecino amarillento.",
+    "microhabitats": "Se los encuentra en cuerpos de agua temporarios, generalmente semienterrado en la orilla de los mismos. Presentan una reproducción explosiva. Para evitar la desecación, produce una cubierta o cocón, formada por las sucesivas mudas de piel acumuladas.",
+    "rangoaltitud": "Hasta 700 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina; Bolivia; Brasil y Paraguay",
+    "distriargentina": "Chaco, Córdoba, Formosa, Entre Ríos, Jujuy, Mendoza, Salta, San Luis, Santa Fe, Santiago del Estero, Tucumán.",
+    "modoreproductivo": "Depositan sus huevos sueltos en el fondo del cuerpo de agua",
+    "similares": []
+}

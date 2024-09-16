@@ -1,0 +1,70 @@
+{
+    "id": "37",
+    "clave": "phyllomedusa_sauvagii",
+    "imagenes": [
+        {
+            "nombre": "phyllomedusa_sauvagii",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "phyllomedusa_sauvagii1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "phyllomedusa_sauvagii2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "phyllomedusa_sauvagii3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "phyllomedusa_sauvagii4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Phyllomedusa sauvagii",
+    "nvulgar": "Rana mono",
+    "familia": "Phyllomedusidae",
+    "tamano": "Mediano (65 a 96 mm)",
+    "habitat": "Arborícola",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso verde uniforme. Vientre verde con manchas irregulares blancas con rebordes oscuros. Dedo pulgar de manos y patas oponibles.",
+    "microhabitats": "Los machos cantan desde la vegetación que se encuentra por encima de los cuerpos de agua.",
+    "rangoaltitud": "Hasta 1800 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Bolivia, Paraguay, Brasil y Argentina",
+    "distriargentina": "Chaco, Córdoba, Corrientes, Formosa, Jujuy, La Rioja, Salta, San Juan, San Luis, Santa Fe, Santiago del Estero y Tucumán.",
+    "modoreproductivo": "Colocan los huevos dentro nidos que construyen plegando una hoja de grande o varias hojas de tamaño pequeño. Los nidos son depositados en la vegetación que se encuentra por encima de cuerpos de agua.",
+    "similares": {
+        "similarid": [
+            "36"
+        ],
+        "similarncientifico": [
+            "Phyllomedusa boliviana"
+        ],
+        "similarnvulgar": [
+            "Rana mono yungueña"
+        ],
+        "similarclave": [
+            "phyllomedusa_boliviana"
+        ]
+    }
+}

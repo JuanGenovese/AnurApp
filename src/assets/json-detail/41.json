@@ -1,0 +1,78 @@
+{
+    "id": "41",
+    "clave": "telmatobius_platycephalus",
+    "imagenes": [
+        {
+            "nombre": "telmatobius_platycephalus",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_platycephalus1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_platycephalus2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_platycephalus3",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Telmatobius platycephalus",
+    "nvulgar": "Rana acuática marmolada",
+    "familia": "Telmatobiidae",
+    "tamano": "Mediano (58 a 61 mm)",
+    "habitat": "Acuático",
+    "habito": "Nocturno",
+    "conservauicn": "#ff9500",
+    "conservaarg": "#ffcc00",
+    "abundancia": "#ffcc00",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "fill",
+    "may": "fill",
+    "jun": "fill",
+    "jul": "fill",
+    "ago": "fill",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal gris verdoso con pequeñas manchas más oscuras, de forma irregular y aleatoriamente distribuidas, en la zona central de la espalda con manchas más grandes. Piel dorsal con verrugas en la zona posterior y con pocas espinas en los miembros posteriores. Piel ventral lisa. Límite muy marcado entre la piel ventral y la dorsal. Vientre de color crema con zonas amarillas debajo de las piernas y pequeñas manchas irregulares gris en la región axilar. Patas traseras con membranas entre los dedos.",
+    "microhabitats": "Se los observa en el agua en arroyos de alta montaña en sólo tres localidades de Jujuy: El Moreno, El Angosto y San José de Chani, Departamento Tumbaya.",
+    "rangoaltitud": "3600 a 3750 msnm",
+    "ecoregion": "Puna",
+    "distrigeneral": "Argentina",
+    "distriargentina": "Jujuy",
+    "modoreproductivo": "No se conoce el modo reproductivo, pero se sospecha que al igual que otros integrantes del género depositan masas de huevos insertos en una capa gelatinosa debajo de piedras en arroyos de montaña.",
+    "similares": {
+        "similarid": [
+            "38",
+            "39",
+            "40",
+            "42"
+        ],
+        "similarncientifico": [
+            "Telmatobius hypselocephalus",
+            "Telmatobius marmoratus",
+            "Telmatobius oxycephalus",
+            "Telmatobius rubigo"
+        ],
+        "similarnvulgar": [
+            "Rana acuática Yungueña",
+            "Rana acuática",
+            "Rana acuática",
+            "Rana herrumbrada de Pozuelos"
+        ],
+        "similarclave": [
+            "telmatobius_hypselocephalus",
+            "telmatobius_marmoratus",
+            "telmatobius_oxycephalus",
+            "telmatobius_rubigo"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "id": "9",
+    "clave": "oreobates_berdemenos",
+    "imagenes": [
+        {
+            "nombre": "oreobates_berdemenos",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "oreobates_berdemenos1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "oreobates_berdemenos2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "oreobates_berdemenos3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "oreobates_berdemenos4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Oreobates berdemenos",
+    "nvulgar": "Ranita de hojarasca Yungueña",
+    "familia": "Craugastoridae",
+    "tamano": "Pequeño (20 a 40 mm)",
+    "habitat": "Terrestre",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#ffcc00",
+    "conservaarg": "gray",
+    "abundancia": "#4cd964",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso liso de color marrón rojizo con un patrón de manchas más oscuras. Patas traseras y delanteras con manchas oscuras formando barras. Extremo de los dedos expandidos en forma de T. Vientre claro con pequeñas manchas oscuras en la garganta.",
+    "microhabitats": "Son comunes en la hojarasca del sotobosque de la selva montana y bosque montano de Yungas. Se puede observar a los machos cantando en el crepúsculo desde el suelo del bosque sobre hojarasca o rocas.",
+    "rangoaltitud": "1100 a 2700 msnm",
+    "ecoregion": "Yungas",
+    "distrigeneral": "Argentina",
+    "distriargentina": "Jujuy y Salta",
+    "modoreproductivo": "Presentan huevos desarrollo directo, muy grandes colocados en una única masa de no más de 30 huevos. Los huevos son semienterrados bajo troncos caídos o bajo grandes piedras. Están totalmente independizados del agua, del huevo emergen juveniles que no pasaron por la etapa de renacuajo.",
+    "similares": {
+        "similarid": [
+            "8"
+        ],
+        "similarncientifico": [
+            "Oreobates barituensis"
+        ],
+        "similarnvulgar": [
+            "Ranita de hojarasca de Baritú"
+        ],
+        "similarclave": [
+            "oreobates_barituensis"
+        ]
+    }
+}

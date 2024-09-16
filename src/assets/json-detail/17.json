@@ -1,0 +1,57 @@
+{
+    "id": "17",
+    "clave": "trachycephalus_typhonius",
+    "imagenes": [
+        {
+            "nombre": "trachycephalus_typhonius",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "trachycephalus_typhonius1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "trachycephalus_typhonius2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "trachycephalus_typhonius3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "trachycephalus_typhonius4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Trachycephalus typhonius",
+    "nvulgar": "Rana lechera",
+    "familia": "Hylidae",
+    "tamano": "Grande (100 a 114 mm)",
+    "habitat": "Arborícola",
+    "habito": "Nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#4cd964",
+    "ene": "outline",
+    "feb": "outline",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso amarronado con grandes manchas o franjas oscuras que contrastan notablemente. El vientre es claro y granuloso. Piel de aspecto granuloso. Los machos con dos sacos vocales que al inflarse se elevan hacia arriba a ambos lados de la cabeza.",
+    "microhabitats": "Los machos cantan en grupos flotando sobre la superficie en cuerpos de agua profundos. Períodos de actividad muy cortados que generalmente coinciden con las primeras lluvias fuertes de verano. Coros muy ruidosos. Al tocarla produce una secreción lechosa pegajosa muy irritante de las mucosas.",
+    "rangoaltitud": "Hasta los 1610 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Belice, Bolivia, Brasil, Colombia, Costa Rica, Guayana Francesa, Guatemala, Guyana, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, Suriname, Trinidad y Tobago, Venezuela",
+    "distriargentina": "Chaco, Corrientes, Entre Ríos, Formosa, Misiones, Jujuy, Salta, Santa Fe y Santiago del Estero",
+    "modoreproductivo": "Depositan una extensa capa delgada de huevos y gelatina en la superficie de charcos poco profundos.",
+    "similares": []
+}

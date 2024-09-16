@@ -1,0 +1,70 @@
+{
+    "id": "16",
+    "clave": "scinax_nasicus",
+    "imagenes": [
+        {
+            "nombre": "scinax_nasicus",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "scinax_nasicus1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "scinax_nasicus2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "scinax_nasicus3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "scinax_nasicus4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Scinax nasicus",
+    "nvulgar": "Ranita hocicuda lisa",
+    "familia": "Hylidae",
+    "tamano": "Pequeño (27 a 35 mm)",
+    "habitat": "Arborícola",
+    "habito": "Nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal gris amaronado con manchas más oscuras, con una mancha oscura en forma de X o paréntesis invertidos, a la altura de los hombros. Parte anterior y posterior de los muslos con un patrón de barras o reticulado oscuro. Coloración ventral blanquecina.",
+    "microhabitats": "Los machos cantan desde los árboles cercanos a cuerpos de agua.",
+    "rangoaltitud": "Hasta 1500 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Paraguay, Argentina, Uruguay, Bolivia, Brasil",
+    "distriargentina": "Buenos Aires, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, Misiones, Salta, Santa Fe, Santiago del Estero y Tucumán.",
+    "modoreproductivo": "Depositan huevos en masas adheridas a la vegetación en charcos poco profundos.",
+    "similares": {
+        "similarid": [
+            "15"
+        ],
+        "similarncientifico": [
+            "Scinax fuscovarius"
+        ],
+        "similarnvulgar": [
+            "Rana trepadora"
+        ],
+        "similarclave": [
+            "scinax_fuscovarius"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "id": "6",
+    "clave": "rhinella_spinulosa",
+    "imagenes": [
+        {
+            "nombre": "rhinella_spinulosa",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "rhinella_spinulosa1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "rhinella_spinulosa2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "rhinella_spinulosa3",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Rhinella spinulosa",
+    "nvulgar": "Sapo andino",
+    "familia": "Bufonidae",
+    "tamano": "Mediano (65 a 95 mm)",
+    "habitat": "Terrestre",
+    "habito": "Diurno, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal amarronada a verdosa con manchas blancas a marrones. Piel rugosa con verrugas con espinas queratinizadas. Presenta glándulas pequeñas ubicadas por arriba o por detrás del tímpano, de forma redondeada. Vientre blanquecino con diminutas manchas negras. Palmas de las manos amarilla a anaranjada en algunas poblaciones.",
+    "microhabitats": "Son comunes en las orillas de rios y lagunas. Los machos no vocalizan.",
+    "rangoaltitud": "Hasta los 5100 msnm",
+    "ecoregion": "Monte de Sierras y Bolsones, Puna y Altos Andes",
+    "distrigeneral": "Argentina, Bolivia, Chile, Peru",
+    "distriargentina": "Catamarca, Jujuy, La Rioja, Mendoza, Salta, San Juan y Tucumán.",
+    "modoreproductivo": "Depositan huevos de color negro en cordones gelatinosos que se asemejan a collares, en el fondo de arroyos andinos.",
+    "similares": {
+        "similarid": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "similarncientifico": [
+            "Rhinella arenarum arenarum",
+            "Rhinella gallardoi",
+            "Rhinella major",
+            "Rhinella rumbolli",
+            "Rhinella diptycha"
+        ],
+        "similarnvulgar": [
+            "Sapo común",
+            "Sapo yungueño grande",
+            "Sapito cavador chaqueño",
+            "Sapo yungueño de rumboll",
+            "Rococó andino"
+        ],
+        "similarclave": [
+            "rhinella_arenarum_arenarum",
+            "rhinella_gallardoi",
+            "rhinella_major",
+            "rhinella_rumbolli",
+            "rhinella_diptycha"
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "40",
+  "clave": "telmatobius_oxycephalus",
+  "imagenes": [
+    {
+      "nombre": "telmatobius_oxycephalus",
+      "copyright": "L. Pereyra"
+    },
+    {
+      "nombre": "telmatobius_oxycephalus1",
+      "copyright": "L. Pereyra"
+    },
+    {
+      "nombre": "telmatobius_oxycephalus2",
+      "copyright": "L. Pereyra"
+    }
+  ],
+  "ncientifico": "Telmatobius oxycephalus",
+  "nvulgar": "Rana acuática",
+  "familia": "Telmatobiidae",
+  "tamano": "Mediano (45 a 57 mm)",
+  "habitat": "Acuático",
+  "habito": "Nocturno",
+  "conservauicn": "#ff9500",
+  "conservaarg": "#ff9500",
+  "abundancia": "#ffcc00",
+  "dvisual": "#ff3b30",
+  "dauditiva": "#4cd964",
+  "ene": "fill",
+  "feb": "fill",
+  "mar": "fill",
+  "abr": "fill",
+  "may": "fill",
+  "jun": "fill",
+  "jul": "fill",
+  "ago": "fill",
+  "sep": "fill",
+  "oct": "fill",
+  "nov": "fill",
+  "dic": "fill",
+  "caracteristicas": "Coloración dorsal amarronado a gris oscuro uniforme. Dorso verrugoso con espinas co\u0301rneas con excepcio\u0301n de los miembros, que son espinosos pero sin verrugas. Piel ventral lisa y sin espinas. Coloración ventral clara con manchas muy notables de color amarillo a naranja intenso en la zona abdominal y de las patas. Patas traseras con membranas entre los dedos.",
+  "microhabitats": "Pasan la mayor parte del tiempo bajo piedras en arroyos de altura. Sin embargo, es posible encontrarlos durante el día en el borde de los arroyos sobre grandes piedras o sobre troncos.",
+  "rangoaltitud": "1400 a 3714 msnm",
+  "ecoregion": "Yungas, Monte de Sierras y Bolsones y Altos Andes",
+  "distrigeneral": "Argentina",
+  "distriargentina": "Jujuy y Salta",
+  "modoreproductivo": "Depositan masas de huevos insertos en una capa gelatinosa debajo de piedras en arroyos de montaña.",
+  "similares": {
+    "similarid": [
+      "38",
+      "39",
+      "41",
+      "42"
+    ],
+    "similarncientifico": [
+      "Telmatobius hypselocephalus",
+      "Telmatobius marmoratus",
+      "Telmatobius platycephalus",
+      "Telmatobius rubigo"
+    ],
+    "similarnvulgar": [
+      "Rana acuática Yungueña",
+      "Rana acuática",
+      "Rana acuática marmolada",
+      "Rana herrumbrada de Pozuelos"
+    ],
+    "similarclave": [
+      "telmatobius_hypselocephalus",
+      "telmatobius_marmoratus",
+      "telmatobius_platycephalus",
+      "telmatobius_rubigo"
+    ]
+  }
+}

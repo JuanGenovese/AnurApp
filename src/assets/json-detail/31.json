@@ -1,0 +1,45 @@
+{
+    "id": "31",
+    "clave": "dermatonotus_muelleri",
+    "imagenes": [
+        {
+            "nombre": "dermatonotus_muelleri",
+            "copyright": "M. Vaira"
+        },
+        {
+            "nombre": "dermatonotus_muelleri1",
+            "copyright": "M. Vaira"
+        }
+    ],
+    "ncientifico": "Dermatonotus muelleri",
+    "nvulgar": "Sapito tacurú",
+    "familia": "Microhylidae",
+    "tamano": "Pequeño (40 a 50 mm)",
+    "habitat": "Fosorial",
+    "habito": "Nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Cuerpo globular, con una cabeza triangular pequeña separada del cuerpo por un pliegue nucal. Sus extremidades son muy cortas. La coloración del dorso es verde oliváceo, con extremidades y región ventral del cuerpo de color negro con manchas blancas.",
+    "microhabitats": "Es considerado un reproductor explosivo, dado que luego de fuertes lluvias los machos aparecen en los sitios reproductivos y toda la actividad dura unos pocos días. Los machos cantan sumergidos o semisumergidos. Pasa gran parte de su tiempo enterrado en hormigueros.",
+    "rangoaltitud": "Hasta 1500 msnm",
+    "ecoregion": "Chaco Seco",
+    "distrigeneral": "Argentina, Brasil, Bolivia, Paraguay",
+    "distriargentina": "Chaco, Corrientes, Formosa, Jujuy, Salta, Santa Fe y Santiago del Estero",
+    "modoreproductivo": "Deposita sus huevos en una película gelatinosa en la superficie del agua.",
+    "similares": []
+}

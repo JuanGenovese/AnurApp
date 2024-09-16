@@ -1,0 +1,82 @@
+{
+    "id": "42",
+    "clave": "telmatobius_rubigo",
+    "imagenes": [
+        {
+            "nombre": "telmatobius_rubigo",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_rubigo1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_rubigo2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_rubigo3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "telmatobius_rubigo4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Telmatobius rubigo",
+    "nvulgar": "Rana herrumbrada de Pozuelos",
+    "familia": "Telmatobiidae",
+    "tamano": "Mediano (40 a 54 mm)",
+    "habitat": "Acuático",
+    "habito": "Nocturno",
+    "conservauicn": "#ffcc00",
+    "conservaarg": "#ffcc00",
+    "abundancia": "#cddc39",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "fill",
+    "may": "fill",
+    "jun": "fill",
+    "jul": "fill",
+    "ago": "fill",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal verde grisáceo, uniforme o con manchas grises más oscuras, siempre salpicados de manchas anaranjadas similares a liquenes. Coloración ventral naranja pálido, superficies ventrales de las extremidades de color naranja, amarillo y rojizo.",
+    "microhabitats": "Se los observa en el agua en arroyos de alta montaña en toda la cuenca de la Laguna de Los Pozuelos.",
+    "rangoaltitud": "3600 a 4700 msnm",
+    "ecoregion": "Puna y Altos Andes",
+    "distrigeneral": "Argentina",
+    "distriargentina": "Jujuy",
+    "modoreproductivo": "Depositan masas de huevos insertos en una capa gelatinosa debajo de piedras en arroyos de montaña.",
+    "similares": {
+        "similarid": [
+            "38",
+            "39",
+            "40",
+            "41"
+        ],
+        "similarncientifico": [
+            "Telmatobius hypselocephalus",
+            "Telmatobius marmoratus",
+            "Telmatobius oxycephalus",
+            "Telmatobius platycephalus"
+        ],
+        "similarnvulgar": [
+            "Rana acuática Yungueña",
+            "Rana acuática",
+            "Rana acuática",
+            "Rana acuática marmolada"
+        ],
+        "similarclave": [
+            "telmatobius_hypselocephalus",
+            "telmatobius_marmoratus",
+            "telmatobius_oxycephalus",
+            "telmatobius_platycephalus"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": "11",
+    "clave": "boana_raniceps",
+    "imagenes": [
+        {
+          "nombre": "boana_raniceps",
+          "copyright":"M. Akmentins"
+        },
+        {
+          "nombre": "boana_raniceps1",
+          "copyright": "M. Akmentins"
+        },
+        {
+          "nombre":"boana_raniceps2",
+          "copyright": "M. Akmentins"
+        },
+        {
+          "nombre": "boana_raniceps3",
+          "copyright": "M. Akmentins"
+        }
+      ],
+    "ncientifico": "Boana raniceps",
+    "nvulgar": "Rana trepadora del Chaco",
+    "familia": "Hylidae",
+    "tamano": "Mediano (35 a 65 mm)",
+    "habitat": "Arborícola y acuático",
+    "habito": "Nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#ffcc00",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#ffcc00",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso de color marrón claro a amarillento, generalmente liso pero en algunos ejemplares con una línea media oscura. Patas muy largas y delgadas. Muslos con un patrón de barras oscuras, negro violáceo. Dedos con discos medianamente expandidos. Patas traseras con membrana entre los dedos. Vientre de color blanquecino o amarillento, con manchas débiles en la garganta y el pecho. Tímpano distinguible, de coloración y textura distinta a la piel del resto del cuerpo.",
+    "microhabitats": "Se los observa en el agua o en la vegetación que crece alrededor de charcos y lagunas, también a orillas de grandes ríos.",
+    "rangoaltitud": "Desde los 400 msnm",
+    "ecoregion": "Yungas y Chaco",
+    "distrigeneral": "Colombia y Venezuela, Guayana Francesa, Brasil, Paraguay, Bolivia y Argentina",
+    "distriargentina": "Buenos Aires, Chaco, Corrientes, Entre Ríos, Formosa, Jujuy, Misiones, Salta, Santa Fe y Santiago del Estero",
+    "modoreproductivo": "Pone los huevos en masas gelatinosas adheridas a la vegetación dentro del agua.",
+    "similares": {
+        "similarid": [
+            "12"
+        ],
+        "similarncientifico": [
+            "Boana riojana"
+        ],
+        "similarnvulgar": [
+            "Rana del zarzal"
+        ],
+        "similarclave": [
+            "boana_riojana"
+        ]
+    }
+}

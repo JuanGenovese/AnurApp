@@ -1,0 +1,86 @@
+{
+    "id": "23",
+    "clave": "leptodactylus_latinasus",
+    "imagenes": [
+        {
+            "nombre": "leptodactylus_latinasus",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_latinasus1",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "leptodactylus_latinasus2",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "leptodactylus_latinasus3",
+            "copyright": "L. Pereyra"
+        }
+    ],
+    "ncientifico": "Leptodactylus latinasus",
+    "nvulgar": "Ranita de las banquinas",
+    "familia": "Leptodactylidae",
+    "tamano": "Pequeño (30 a 40 mm)",
+    "habitat": "Terrestre",
+    "habito": "Diurno, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal gris a amarronada con un patrón de manchas irregulares más oscuras. Con glándulas que forman una cadena glandular en los laterales del cuerpo. Presenta una mancha romboidal entre los hombros. Vientre claro y liso con un pliegue en el abdomen.",
+    "microhabitats": "Los machos cantan aún en pleno día ocultos en cuevas que ellos construyen o aprovechando refugios naturales. A la noche cantan sobre el suelo desnudo o apenas ocultos en la vegetación. Se los encuentra próximos a charcos o pequeños cursos de agua.",
+    "rangoaltitud": "Hasta 2000 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Bolivia, Brasil, Paraguay y Uruguay.",
+    "distriargentina": "Buenos Aires, Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, Salta, Santa Fe, Santiago del Estero y Tucumán.",
+    "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+    "similares": {
+        "similarid": [
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "24"
+        ],
+        "similarncientifico": [
+            "Leptodactylus bufonius",
+            "Juveniles de Leptodactylus macrosternum",
+            "Leptodactylus elenae",
+            "Leptodactylus fuscus",
+            "Leptodactylus gracilis",
+            "Leptodactylus apepyta"
+        ],
+        "similarnvulgar": [
+            "Rana de labios blancos",
+            "Rana criolla",
+            "Rana marmorada",
+            "Rana colorada",
+            "Rana hocicuda",
+            "Rana de bigotes"
+        ],
+        "similarclave": [
+            "leptodactylus_bufonius",
+            "leptodactylus_macrosternum",
+            "leptodactylus_elenae",
+            "leptodactylus_fuscus",
+            "leptodactylus_gracilis",
+            "leptodactylus_apepyta"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2",
+  "clave": "rhinella_gallardoi",
+  "imagenes": [
+    {
+      "nombre": "rhinella_gallardoi",
+      "copyright": "M. Akmentins"
+    },
+    {
+      "nombre": "rhinella_gallardoi1",
+      "copyright": "M. Akmentins"
+    },
+    {
+      "nombre": "rhinella_gallardoi2",
+      "copyright": "M. Akmentins"
+    }
+  ],
+  "ncientifico": "Rhinella gallardoi",
+  "nvulgar": "Sapo yungueño grande",
+  "familia": "Bufonidae",
+  "tamano": "Mediano (60 a 95 mm)",
+  "habitat": "Terrestre y acuático",
+  "habito": "Nocturno",
+  "conservauicn": "#ff9500",
+  "conservaarg": "#ffcc00",
+  "abundancia": "#ffbf00",
+  "dvisual": "#ff3b30",
+  "dauditiva": "#4cd964",
+  "ene": "fill",
+  "feb": "fill",
+  "mar": "outline",
+  "abr": "outline",
+  "may": "outline",
+  "jun": "outline",
+  "jul": "outline",
+  "ago": "outline",
+  "sep": "outline",
+  "oct": "fill",
+  "nov": "fill",
+  "dic": "fill",
+  "caracteristicas": "Coloración dorsal amarronada con manchas oscuras en verrugas grandes. Presenta grandes glándulas ubicadas por arriba o por detrás del tímpano, de forma ovalada. Vientre amarrillento.",
+  "microhabitats": "Se los encuentra en el sotobosque o en arroyos y en el interior de la selva de Yungas.",
+  "rangoaltitud": "650 a 2800 msnm",
+  "ecoregion": "Yungas",
+  "distrigeneral": "Argentina y posiblemente Bolivia",
+  "distriargentina": "Jujuy",
+  "modoreproductivo": "No se conoce el modo reproductivo.",
+  "similares": {
+    "similarid": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "similarncientifico": [
+      "Rhinella arenarum arenarum",
+      "Rhinella major",
+      "Rhinella rumbolli",
+      "Rhinella diptycha",
+      "Rhinella spinulosa"
+    ],
+    "similarnvulgar": [
+      "Sapo común",
+      "Sapito cavador chaqueño",
+      "Sapo yungueño de rumboll",
+      "Rococó",
+      "Sapo andino"
+    ],
+    "similarclave": [
+      "rhinella_arenarum_arenarum",
+      "rhinella_major",
+      "rhinella_rumbolli",
+      "rhinella_diptycha",
+      "rhinella_spinulosa"
+    ]
+  }
+}

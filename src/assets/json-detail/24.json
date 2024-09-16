@@ -1,0 +1,86 @@
+{
+    "id": "24",
+    "clave": "leptodactylus_apepyta",
+    "imagenes": [
+        {
+            "nombre": "leptodactylus_apepyta",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "leptodactylus_apepyta1",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "leptodactylus_apepyta2",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "leptodactylus_apepyta3",
+            "copyright": "L. Pereyra"
+        }
+    ],
+    "ncientifico": "Leptodactylus apepyta",
+    "nvulgar": "Rana de bigotes",
+    "familia": "Leptodactylidae",
+    "tamano": "Mediano (50 a 60 mm)",
+    "habitat": "Terrestre",
+    "habito": "Nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "outline",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso con dos a cuatro pliegues longitudinales. Coloración dorsal amarronada con bandas oscuras y región central de color bronce. El 'bigote' es una banda oscura que va desde la punta del hocico hasta atrás del tímpano y por debajo de ésta una banda blanca que coincide con el borde del labio. Parte posterior de los muslos con bandas transversales oscuras. Vientre claro.",
+    "microhabitats": "Los machos cantan ocultos desde las cavidades que construyen a orilla de charcos temporarios.",
+    "rangoaltitud": "Hasta 1800 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Bolivia, Brasil, Paraguay y Uruguay",
+    "distriargentina": "Buenos Aires, Catamarca, Chaco, Chubut, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, Misiones, Río Negro, Salta, San Juan, San Luis, Santa Fé, Santiago del Estero y Tucumán",
+    "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+    "similares": {
+        "similarid": [
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23"
+        ],
+        "similarncientifico": [
+            "Leptodactylus bufonius",
+            "Juveniles de Leptodactylus macrosternum",
+            "Leptodactylus elenae",
+            "Leptodactylus fuscus",
+            "Leptodactylus gracilis",
+            "Leptodactylus latinasus"
+        ],
+        "similarnvulgar": [
+            "Rana de labios blancos",
+            "Rana criolla",
+            "Rana marmorada",
+            "Rana colorada",
+            "Rana hocicuda",
+            "Ranita de las banquinas"
+        ],
+        "similarclave": [
+            "leptodactylus_bufonius",
+            "leptodactylus_macrosternum",
+            "leptodactylus_elenae",
+            "leptodactylus_fuscus",
+            "leptodactylus_gracilis",
+            "leptodactylus_latinasus"
+        ]
+    }
+}

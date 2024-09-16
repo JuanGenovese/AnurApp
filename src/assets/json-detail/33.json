@@ -1,0 +1,70 @@
+{
+    "id": "33",
+    "clave": "elachistocleis_skotogaster",
+    "imagenes": [
+        {
+            "nombre": "elachistocleis_skotogaster",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "elachistocleis_skotogaster1",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "elachistocleis_skotogaster2",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "elachistocleis_skotogaster3",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "elachistocleis_skotogaster4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Elachistocleis skotogaster",
+    "nvulgar": "Ranita aceituna panza negra",
+    "familia": "Microhylidae",
+    "tamano": "Pequeño (28 a 35 mm)",
+    "habitat": "Fosorial",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Cuerpo ovalado y cabeza relativamente chica y triangular, separada del resto del cuerpo por un pliegue nucal. Dorso de color castaño oscuro con puntos negros y blancos. Vientre gris con un leve punteado marrón. La parte oculta de los muslos y axilas presenta una coloración naranja intenso. Una línea amarilla o anaranjada recorre los muslos y las tibias.",
+    "microhabitats": "Se reproducen en charcos temporarios, los machos cantan semisumergidos sacando sólo su hocico, generalmente agarrado a la vegetación del cuerpo de agua",
+    "rangoaltitud": "137 a 1675 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina",
+    "distriargentina": "Jujuy, Salta y Formosa",
+    "modoreproductivo": "Masa de huevos depositada en una capa fina sobre la superficie del agua, completamente expuesta. Huevos negros y cápsula con aspecto lenticular.",
+    "similares": {
+        "similarid": [
+            "32"
+        ],
+        "similarncientifico": [
+            "Elachistocleis haroi"
+        ],
+        "similarnvulgar": [
+            "Ranita aceituna"
+        ],
+        "similarclave": [
+            "elachistocleis_haroi"
+        ]
+    }
+}

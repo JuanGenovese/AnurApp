@@ -1,0 +1,57 @@
+{
+    "id": "0",
+    "clave": "melanophryniscus_rubriventris",
+    "imagenes": [
+        {
+            "nombre": "melanophryniscus_rubriventris",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "melanophryniscus_rubriventris1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "melanophryniscus_rubriventris2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "melanophryniscus_rubriventris3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "melanophryniscus_rubriventris4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Melanophryniscus rubriventris",
+    "nvulgar": "Sapito de panza roja Yungueño",
+    "familia": "Bufonidae",
+    "tamano": "Pequeño (35 a 45 mm)",
+    "habitat": "Terrestre",
+    "habito": "Diurno, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal variable, generalmente marrón oscura o negra. También generalmente presentan manchas amarillas o anaranjadas sobre los hombros. Piel rugosa, con verrugas glandulares más evidentes en brazos, piernas y en los laterales. El vientre, parte interna de los muslos y plantas de la patas es rojo intenso o con una pequeña mancha negra en la parte media. Piel ventral áspera y glandular.",
+    "microhabitats": "Activos a plena luz del día, luego de una lluvia fuerte de verano se agrupan en gran número. Se los encuentra en charcos de agua de lluvia o pequeñas vertientes en zonas planas y generalmente cubiertas de vegetación.",
+    "rangoaltitud": "700 a 2400 msnm",
+    "ecoregion": "Yungas",
+    "distrigeneral": "Argentina y Bolivia",
+    "distriargentina": "Jujuy y Salta",
+    "modoreproductivo": "Depositan los huevos en el agua en grupos de no más de 15 huevos adheridos entre sí.",
+    "similares": []
+}

@@ -1,0 +1,70 @@
+{
+    "id": "8",
+    "clave": "oreobates_barituensis",
+    "imagenes": [
+        {
+            "nombre": "oreobates_barituensis",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "oreobates_barituensis1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "oreobates_barituensis2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "oreobates_barituensis3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "oreobates_barituensis4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Oreobates barituensis",
+    "nvulgar": "Ranita de hojarasca de Baritú",
+    "familia": "Craugastoridae",
+    "tamano": "Pequeño (20 a 30 mm)",
+    "habitat": "Terrestre",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#cddc39",
+    "conservaarg": "#ffcc00",
+    "abundancia": "#4cd964",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#ffcc00",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso liso de color marrón claro con un patrón difuso de manchas más oscuras y un punto glandular negro sobre los hombros. Patas traseras y delanteras con manchas oscuras formando barras. Extremo de los dedos expandidos en forma de T. Vientre claro.",
+    "microhabitats": "Es común encontrarlos en salientes de roca arcillosa a los costados de los caminos de montaña o barrancos de los cursos de agua. Los machos vocalizan de noche sobre el suelo desnudo.",
+    "rangoaltitud": "550 a 2000 msnm",
+    "ecoregion": "Yungas",
+    "distrigeneral": "Argentina",
+    "distriargentina": "Jujuy, Salta y Tucumán",
+    "modoreproductivo": "Presentan huevos con desarrollo directo, muy grandes colocados en una única masa de no más de 30 huevos. Los huevos son depositados en grietas de las paredes rocosas o bajo grandes piedras. Están totalmente independizados del agua, del huevo emergen juveniles que no pasaron por la etapa de renacuajo.",
+    "similares": {
+        "similarid": [
+            "9"
+        ],
+        "similarncientifico": [
+            "Oreobates berdemenos"
+        ],
+        "similarnvulgar": [
+            "Ranita de hojarasca Yungueña"
+        ],
+        "similarclave": [
+            "oreobates_berdemenos"
+        ]
+    }
+}

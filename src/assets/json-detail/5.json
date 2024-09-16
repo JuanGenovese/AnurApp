@@ -1,0 +1,86 @@
+{
+    "id": "5",
+    "clave": "rhinella_diptycha",
+    "imagenes": [
+        {
+            "nombre": "rhinella_diptycha",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "rhinella_diptycha1",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "rhinella_diptycha2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "rhinella_diptycha3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "rhinella_diptycha4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Rhinella diptycha",
+    "nvulgar": "Rococó",
+    "familia": "Bufonidae",
+    "tamano": "Grande (180 a 210 mm)",
+    "habitat": "Terrestre",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal amarronada a grisácea con manchas irregulares blancas. Piel rugosa con verrugas grandes. Con proyecciones prominentes en la cabeza por encima de los ojos de color marrón o rojiza. Presenta glándulas muy grandes ubicadas por arriba o por detrás del tímpano, dos veces mas larga que ancha. Además con glándulas grandes y alargadas ubicadas en la región posterior de la tibia. Vientre blanquecino salpicado de oscuro.",
+    "microhabitats": "Los machos cantan parados o apoyados en troncos flotantes o que emergen del agua. Se reúnen en gran número para reproducirse en áreas abiertas de remansos de los arroyos o en lagunas.",
+    "rangoaltitud": "Hasta los 2000 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Bolivia, Brazil, Paraguay, Uruguay",
+    "distriargentina": "Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, Misiones, Salta, Santa Fe, Santiago del Estero y Tucumán.",
+    "modoreproductivo": "Depositan huevos de color negro en cordones gelatinosos muy largos que se asemejan a collares, adheridos a la vegetación en el fondo del agua.",
+    "similares": {
+        "similarid": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "similarncientifico": [
+            "Rhinella arenarum arenarum",
+            "Rhinella gallardoi",
+            "Rhinella major",
+            "Rhinella rumbolli",
+            "Rhinella spinulosa"
+        ],
+        "similarnvulgar": [
+            "Sapo común",
+            "Sapo yungueño grande",
+            "Sapito cavador chaqueño",
+            "Sapo yungueño de rumboll",
+            "Sapo andino"
+        ],
+        "similarclave": [
+            "rhinella_arenarum_arenarum",
+            "rhinella_gallardoi",
+            "rhinella_major",
+            "rhinella_rumbolli",
+            "rhinella_spinulosa"
+        ]
+    }
+}

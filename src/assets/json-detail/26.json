@@ -1,0 +1,82 @@
+{
+    "id": "26",
+    "clave": "physalaemus_albonotatus",
+    "imagenes": [
+        {
+            "nombre": "physalaemus_albonotatus",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "physalaemus_albonotatus1",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "physalaemus_albonotatus2",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "physalaemus_albonotatus3",
+            "copyright": "L. Pereyra"
+        }
+    ],
+    "ncientifico": "Physalaemus albonotatus",
+    "nvulgar": "Ranita llorona",
+    "familia": "Leptodactylidae",
+    "tamano": "Pequeño (27 a 32 mm)",
+    "habitat": "Terrestre y acuático",
+    "habito": "Diurno, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#4cd964",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "outline",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración y patrón dorsal muy variable, desde ocre a verde oscuro, sin manchas o con manchas irregulares o formando complejos diseños. Posee una banda oscura en sus laterales desde la parte posterior del ojo hasta la mitad del abdomen. Vientre blancuzco salpicado de negro en el pecho.",
+    "microhabitats": "Se los encuentra en charcos, cursos de agua pequeños o lagunas, formando grandes coros muy fáciles de localizar. Cantan sumergidos en los cuerpos de agua o desde la costa entre la vegetación. Su canto se asemeja al llanto de un bebe reiterado a intervalos cortos.",
+    "rangoaltitud": "Hasta 2000 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Bolivia y probablemente en Paraguay",
+    "distriargentina": "Formosa, Jujuy, Salta y Santiago del Estero",
+    "modoreproductivo": "Construyen nidos de espuma flotantes de tamaño pequeño (7 a 10 cm). Los machos baten una secreción de albúmina formando así la espuma donde quedan inmersos los huevos. Los construyen adheridos a palos, piedras o vegetación baja. Depositan entre 700 y 1300 huevos de color blanco que se confunden con la espuma.",
+    "similares": {
+        "similarid": [
+            "25",
+            "27",
+            "28",
+            "29",
+            "30"
+        ],
+        "similarncientifico": [
+            "Physalaemus biligonigerus",
+            "Pleuroderma borellii",
+            "Pleuroderma cinereum",
+            "Pleurodema marmoratum",
+            "Pleurodema tucumanum"
+        ],
+        "similarnvulgar": [
+            "Rana llorona",
+            "Ranita cuatro ojos",
+            "Ranita cuatro ojos de la puna",
+            "Sapo veteado de cuatro ojos",
+            "Ranita cuatro ojos"
+        ],
+        "similarclave": [
+            "physalaemus_biligonigerus",
+            "pleurodema_borellii",
+            "pleurodema_cinereum",
+            "pleurodema_marmoratum",
+            "pleurodema_tucumanum"
+        ]
+    }
+}

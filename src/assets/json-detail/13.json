@@ -1,0 +1,66 @@
+{
+    "id": "13",
+    "clave": "dendropsophus_minutus",
+    "imagenes": [
+        {
+            "nombre": "dendropsophus_minutus",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "dendropsophus_minutus1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "dendropsophus_minutus2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "dendropsophus_minutus3",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Dendropsophus minutus",
+    "nvulgar": "Ranita amarilla",
+    "familia": "Hylidae",
+    "tamano": "Pequeño (20 a 26 mm)",
+    "habitat": "Arborícola",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "gray",
+    "abundancia": "#4cd964",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Su piel es lisa, dorso amarillento con manchas dorsolaterales amarronadas con bordes bien marcados en la cabeza y la espalda. El vientre es blanco amarillento sin manchas. Tímpano poco distinguible, de la misma coloración del resto del cuerpo. Discos adhesivos en el extremo de los dedos. Se diferencia fácilmente de Dendropsophus nanus por el canto.",
+    "microhabitats": "Típica de charcos semipermanentes y lagunas. Los machos cantan desde el interior del cuerpo de agua aferrados a la vegetación que sobresale o desde la costa con vegetación baja o suelo desnudo.",
+    "rangoaltitud": "Hasta 1800 msnm",
+    "ecoregion": "Yungas y Chaco Seco",
+    "distrigeneral": "Argentina, Bolivia, Brasil, Colombia, Ecuador, Guayana Francesa, Guyana, Paraguay, Perú, Surinam, Trinidad y Tobago, Uruguay, Venezuela",
+    "distriargentina": "Jujuy, Salta, Misiones",
+    "modoreproductivo": "Huevos pequeños y grisáceos adheridos a la vegetación enraizada en el cuerpo de agua formando masas poco compactas.",
+    "similares": {
+        "similarid": [
+            "14"
+        ],
+        "similarncientifico": [
+            "Dendropsophus nanus"
+        ],
+        "similarnvulgar": [
+            "Ranita amarilla"
+        ],
+        "similarclave": [
+            "dendropsophus_nanus"
+        ]
+    }
+}

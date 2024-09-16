@@ -1,0 +1,90 @@
+{
+    "id": "19",
+    "clave": "leptodactylus_macrosternum",
+    "imagenes": [
+        {
+            "nombre": "leptodactylus_macrosternum",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_macrosternum1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_macrosternum2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_macrosternum3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "leptodactylus_macrosternum4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Leptodactylus macrosternum",
+    "nvulgar": "Rana criolla",
+    "familia": "Leptodactylidae",
+    "tamano": "Mediano (85 a 90 mm)",
+    "habitat": "Terrestre y acuático",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#4cd964",
+    "dauditiva": "#ff3b30",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "outline",
+    "nov": "outline",
+    "dic": "outline",
+    "caracteristicas": "Dorso con ocho pliegues longitudinales. Coloración dorsal verde oscuro o marrón con manchas redondeadas. Presencia de una mancha triangular entre los ojos. La parte inferior de los muslos de color verdoso uniforme. El vientre es blanco y liso con un pliegue en el abdomen.",
+    "microhabitats": "Los machos cantan desde el borde o dentro del agua de charcos o áreas inundadas. Las hembras son observadas cuidando los cardúmenes de renacuajos dentro de los charcos.",
+    "rangoaltitud": "Hasta 1500 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Bolivia, Paraguay, Uruguay, Brasil",
+    "distriargentina": "Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, Salta, Santa Fe, Santiago del Estero, y Tucumán.",
+    "modoreproductivo": "Los huevos pequeños y de color negro son depositados en nidos de espuma de grandes dimensiones (~ 20 cm). Los renacuajos forman grandes grupos en constante movimiento que recuerdan a cardúmenes de peces y son cuidados por la hembra.",
+    "similares": {
+        "similarid": [
+            "18",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24"
+        ],
+        "similarncientifico": [
+            "Leptodactylus bufonius",
+            "Leptodactylus elenae",
+            "Leptodactylus fuscus",
+            "Leptodactylus gracilis",
+            "Leptodactylus latinasus",
+            "Leptodactylus apepyta"
+        ],
+        "similarnvulgar": [
+            "Rana de labios blancos",
+            "Rana marmorada",
+            "Rana colorada",
+            "Rana hocicuda",
+            "Ranita de las banquinas",
+            "Rana de bigotes"
+        ],
+        "similarclave": [
+            "leptodactylus_bufonius",
+            "leptodactylus_elenae",
+            "leptodactylus_fuscus",
+            "leptodactylus_gracilis",
+            "leptodactylus_latinasus",
+            "leptodactylus_apepyta"
+        ]
+    }
+}

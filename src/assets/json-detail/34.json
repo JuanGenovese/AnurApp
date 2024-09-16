@@ -1,0 +1,70 @@
+{
+    "id": "34",
+    "clave": "odontophrynus_americanus",
+    "imagenes": [
+        {
+            "nombre": "odontophrynus_americanus",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "odontophrynus_americanus1",
+            "copyright": "L. Pereyra"
+        },
+        {
+            "nombre": "odontophrynus_americanus2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "odontophrynus_americanus3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "odontophrynus_americanus4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Odontophrynus americanus",
+    "nvulgar": "Escuercito",
+    "familia": "Odontophrynae",
+    "tamano": "Mediano (60 a 70 mm)",
+    "habitat": "Terrestre y fosorial",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#4cd964",
+    "abundancia": "#cddc39",
+    "dvisual": "#ffcc00",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Cuerpo globoso y miembros cortos. Dorso con coloración que varía de marrón a amarillo con numerosas manchas irregulares más oscuras. Piel dorsal rugosa y granular. Línea media clara en el dorso. Vientre granuloso, grisáceo a blanco. En la planta de las patas traseras con un tubérculo en forma de pala.",
+    "microhabitats": "Sus apariciones son repentinas coincidiendo con lluvias fuertes. Se los observa cantando dentro de los cuerpos de agua o semienterrado a orillas de los cuerpos de agua. Los encontramos en arroyos, charcos profundos, lagunas o acequias de riego.",
+    "rangoaltitud": "0 a 2000 msnm",
+    "ecoregion": "Chaco Seco y Yungas",
+    "distrigeneral": "Argentina, Brazil, Paraguay, Uruguay y posiblemente Bolivia",
+    "distriargentina": "Buenos Aires, Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Misiones, Río Negro, Salta, San Luis, Santa Fe, Santiago del Estero y Tucumán",
+    "modoreproductivo": "Los huevos de coloración negra son colocados sueltos directamente sobre el fondo del cuerpo de agua.",
+    "similares": {
+        "similarid": [
+            "35"
+        ],
+        "similarncientifico": [
+            "Odontophrynus lavillai"
+        ],
+        "similarnvulgar": [
+            "Escuercito"
+        ],
+        "similarclave": [
+            "odontophrynus_lavillai"
+        ]
+    }
+}

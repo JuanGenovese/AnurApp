@@ -1,0 +1,66 @@
+{
+    "id": "38",
+    "clave": "telmatobius_hypselocephalus",
+    "imagenes": [
+        {
+            "nombre": "telmatobius_hypselocephalus",
+            "copyright": "Diego Baldo"
+        }
+    ],
+    "ncientifico": "Telmatobius hypselocephalus",
+    "nvulgar": "Rana acuática Yungueña",
+    "familia": "Telmatobiidae",
+    "tamano": "Mediano (58 a 68 mm)",
+    "habitat": "Acuático",
+    "habito": "Nocturno",
+    "conservauicn": "#ff9500",
+    "conservaarg": "#ffcc00",
+    "abundancia": "#ffbf00",
+    "dvisual": "#ff3b30",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "fill",
+    "abr": "fill",
+    "may": "fill",
+    "jun": "fill",
+    "jul": "fill",
+    "ago": "fill",
+    "sep": "fill",
+    "oct": "fill",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Coloración dorsal marrón verdoso oscuro uniforme. Piel dorsal con verrugas aplanadas, con espinas muy pequen\u0303as. Piel ventral lisa, con espinillas co\u0301rneas a ambos lados del pecho. Coloración ventral de color verdoso claro, con algunas manchas naranjas en las patas traseras. Piel de aspecto húmedo. Membrana entre los dedos en las patas traseras.",
+    "microhabitats": "Se los observa en el agua en arroyos de alta montaña en sólo dos localidades de Jujuy, El Moreno y El Angosto, Departamento Tumbaya.",
+    "rangoaltitud": "3500 - 3600 msnm",
+    "ecoregion": "Puna",
+    "distrigeneral": "Argentina",
+    "distriargentina": "Jujuy",
+    "modoreproductivo": "No se conoce el modo reproductivo, pero se sospecha que al igual que otros integrantes del género depositan masas de huevos insertos en una capa gelatinosa debajo de piedras en arroyos de montaña.",
+    "similares": {
+        "similarid": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "similarncientifico": [
+            "Telmatobius marmoratus",
+            "Telmatobius oxycephalus",
+            "Telmatobius platycephalus",
+            "Telmatobius rubigo"
+        ],
+        "similarnvulgar": [
+            "Rana acuática",
+            "Rana acuática",
+            "Rana acuática marmolada",
+            "Rana herrumbrada de Pozuelos"
+        ],
+        "similarclave": [
+            "telmatobius_marmoratus",
+            "telmatobius_oxycephalus",
+            "telmatobius_platycephalus",
+            "telmatobius_rubigo"
+        ]
+    }
+}

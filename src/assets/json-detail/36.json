@@ -1,0 +1,70 @@
+{
+    "id": "36",
+    "clave": "phyllomedusa_boliviana",
+    "imagenes": [
+        {
+            "nombre": "phyllomedusa_boliviana",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "phyllomedusa_boliviana1",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "phyllomedusa_boliviana2",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "phyllomedusa_boliviana3",
+            "copyright": "M. Akmentins"
+        },
+        {
+            "nombre": "phyllomedusa_boliviana4",
+            "copyright": "M. Akmentins"
+        }
+    ],
+    "ncientifico": "Phyllomedusa boliviana",
+    "nvulgar": "Rana mono yungueña",
+    "familia": "Phyllomedusidae",
+    "tamano": "Mediano (65 a 80 mm)",
+    "habitat": "Arborícola",
+    "habito": "Crepuscular, nocturno",
+    "conservauicn": "#4cd964",
+    "conservaarg": "#ffcc00",
+    "abundancia": "#cddc39",
+    "dvisual": "#4cd964",
+    "dauditiva": "#4cd964",
+    "ene": "fill",
+    "feb": "fill",
+    "mar": "outline",
+    "abr": "outline",
+    "may": "outline",
+    "jun": "outline",
+    "jul": "outline",
+    "ago": "outline",
+    "sep": "outline",
+    "oct": "outline",
+    "nov": "fill",
+    "dic": "fill",
+    "caracteristicas": "Dorso verde uniforme, vientre blanco y liso. Ojos grandes y prominentes. Posee una mancha a modo de ceja de color rojo intenso. Dedo pulgar de manos y patas oponibles.",
+    "microhabitats": "Los machos cantan desde la vegetación que se encuentra por encima de los cuerpos de agua.",
+    "rangoaltitud": "200 a 2000 msnm",
+    "ecoregion": "Yungas",
+    "distrigeneral": "Bolivia, Brasil y Argentina",
+    "distriargentina": "Jujuy y Salta",
+    "modoreproductivo": "Colocan los huevos dentro nidos que construyen plegando una hoja de grande o varias hojas de tamaño pequeño. Los nidos son depositado en la vegetación que se encuentra por encima de cuerpos de agua.",
+    "similares": {
+        "similarid": [
+            "37"
+        ],
+        "similarncientifico": [
+            "Phyllomedusa sauvagii"
+        ],
+        "similarnvulgar": [
+            "Rana mono"
+        ],
+        "similarclave": [
+            "phyllomedusa_sauvagii"
+        ]
+    }
+}

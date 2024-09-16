@@ -1,0 +1,86 @@
+{
+  "id": "1",
+  "clave": "rhinella_arenarum_arenarum",
+  "imagenes": [
+    {
+      "nombre": "rhinella_arenarum_arenarum",
+      "copyright": "M. Akmentins"
+    },
+    {
+      "nombre": "rhinella_arenarum_arenarum1",
+      "copyright": "L. Pereyra"
+    },
+    {
+      "nombre": "rhinella_arenarum_arenarum2",
+      "copyright": "M. Akmentins"
+    },
+    {
+      "nombre": "rhinella_arenarum_arenarum3",
+      "copyright": "M. Akmentins"
+    },
+    {
+      "nombre": "rhinella_arenarum_arenarum4",
+      "copyright": "M. Akmentins"
+    }
+  ],
+  "ncientifico": "Rhinella arenarum arenarum",
+  "nvulgar": "Sapo común",
+  "familia": "Bufonidae",
+  "tamano": "Mediano a grande (85 a 120 mm)",
+  "habitat": "Terrestre",
+  "habito": "Crepuscular, nocturno",
+  "conservauicn": "#4cd964",
+  "conservaarg": "#4cd964",
+  "abundancia": "#4cd964",
+  "dvisual": "#4cd964",
+  "dauditiva": "#4cd964",
+  "ene": "fill",
+  "feb": "fill",
+  "mar": "outline",
+  "abr": "outline",
+  "may": "outline",
+  "jun": "outline",
+  "jul": "outline",
+  "ago": "outline",
+  "sep": "outline",
+  "oct": "fill",
+  "nov": "fill",
+  "dic": "fill",
+  "caracteristicas": "Presentan una coloración dorsal muy 'variable': gris, amarronado, verde-amarillento hasta canela, verdosa o marrón con manchas claras. Las manchas irregulares del dorso combinan todos estos colores. Con proyecciones en la cabeza por encima de los ojos. Presenta grandes glándulas ubicadas por arriba o por detrás del tímpano, dos veces mas larga que ancha. La piel es gruesa y de aspecto verrugoso a dorsal, el vientre es liso y blanquecino.",
+  "microhabitats": "Los machos cantan desde los márgenes o desde el interior de los cuerpos de agua. Muy adaptado a ambientes urbanos, en donde se los suele ver alimentándose.",
+  "rangoaltitud": "Hasta los 2600 msnm",
+  "ecoregion": "Chaco Seco, Yungas y Monte de Sierras y Bolsones",
+  "distrigeneral": "Bolivia, Argentina, Brasil, Uruguay y posiblemente Paraguay",
+  "distriargentina": "Buenos Aires, Catamarca, Chaco, Chubut, Córdoba, Entre Ríos, Jujuy, La Pampa, La Rioja, Mendoza, Neuquén, Río Negro, Salta, San Juan, San Luis, Santa Fe, Santiago del Estero y Tucumán.",
+  "modoreproductivo": "Depositan sus huevos en cordones que se asemejan a collares. Los huevos son de color negro, ponen cerca de 2000 huevos en cada puesta. Los colocan en remanso de agua claras y poco profundas, sobre el fondo de piedras o arena.",
+  "similares": {
+    "similarid": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "similarncientifico": [
+      "Rhinella gallardoi",
+      "Rhinella major",
+      "Rhinella rumbolli",
+      "Rhinella diptycha",
+      "Rhinella spinulosa"
+    ],
+    "similarnvulgar": [
+      "Sapo yungueño grande",
+      "Sapito cavador chaqueño",
+      "Sapo yungueño de rumboll",
+      "Rococó",
+      "Sapo andino"
+    ],
+    "similarclave": [
+      "rhinella_gallardoi",
+      "rhinella_major",
+      "rhinella_rumbolli",
+      "rhinella_diptycha",
+      "rhinella_spinulosa"
+    ]
+  }
+}

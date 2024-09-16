@@ -1,0 +1,3137 @@
+  [
+    {"id":"0", "clave": "melanophryniscus_rubriventris",
+      "imagenes": [
+        {
+          "imagenesclave": "melanophryniscus_rubriventris",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "melanophryniscus_rubriventris1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "melanophryniscus_rubriventris2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "melanophryniscus_rubriventris3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "melanophryniscus_rubriventris4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Melanophryniscus rubriventris",
+      "nvulgar": "Sapito de panza roja Yungueño",
+      "familia": "Bufonidae",
+      "tamano": "Pequeño (35 a 45 mm)",
+      "habitat": "Terrestre",
+      "habito": "Diurno, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal variable, generalmente marrón oscura o negra. También geralmente presentan manchas amarillas o anaranjadas sobre los hombros. Piel rugosa, con verrugas glandulares más evidentes en brazos, piernas y en los laterales. El vientre, parte interna de los muslos y plantas de la patas es rojo intenso o con una pequeña mancha negra en la parte media. Piel ventral áspera y glandular.",
+      "microhabitats": "Activos a plena luz del día, luego de una lluvia fuerte de verano se agrupan en gran número. Se los encuentra en charcos de agua de lluvia o pequeñas vertientes en zonas planas y generalmente cubiertas de vegetación.",
+      "rangoaltitud": "700 a 2000 msnm",
+      "ecoregion": "Yungas",
+      "distrigeneral": "Argentina y Bolivia",
+      "distriargentina": "Jujuy y Salta",
+      "modoreproductivo": "Depositan los huevos en el agua en grupos de no más de 15 huevos adheridos entre sí.",
+      "similares": []
+    },
+    {
+      "id":"1",
+      "clave": "rhinella_arenarum_arenarum",
+      "imagenes": [
+        {
+          "imagenesclave": "rhinella_arenarum_arenarum",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_arenarum_arenarum1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "rhinella_arenarum_arenarum2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_arenarum_arenarum3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_arenarum_arenarum4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Rhinella arenarum arenarum",
+      "nvulgar": "Sapo común",
+      "familia": "Bufonidae",
+      "tamano": "Mediano a grande (85 a 120 mm)",
+      "habitat": "Terrestre",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Presentan una coloración dorsal muy 'variable': gris, amarronado, verde-amarillento hasta canela, verdosa o marrón con manchas claras. Las manchas irregulares del dorso combinan todos estos colores. Con proyecciones en la cabeza por encima de los ojos. Presenta grandes glándulas ubicadas por arriba o por detrás del tímpano, dos veces mas larga que ancha. La piel es gruesa y de aspecto verrugoso a dorsal, el vientre es liso y blanquecino.",
+      "microhabitats": "Los machos cantan desde los márgenes o desde el interior de los cuerpos de agua. Muy adaptado a ambientes urbanos, en donde se los suele ver alimentándose.",
+      "rangoaltitud": "Hasta los 2600 msnm",
+      "ecoregion": "Chaco Seco, Yungas y Monte de Sierras y Bolsones",
+      "distrigeneral": "Bolivia, Argentina, Brasil, Uruguay y posiblemente Paraguay",
+      "distriargentina": "Buenos Aires, Catamarca, Chaco, Chubut, Córdoba, Entre Ríos, Jujuy, La Pampa, La Rioja, Mendoza, Neuquén, Río Negro, Salta, San Juan, San Luis, Santa Fe, Santiago del Estero y Tucumán.",
+      "modoreproductivo": "Depositan sus huevos en cordones que se asemejan a collares. Los huevos son de color negro, ponen cerca de 2000 huevos en cada puesta. Los colocan en remanso de agua claras y poco profundas, sobre el fondo de piedras o arena.",
+      "similares": [
+        {
+          "similarid": "2",
+          "similarncientifico": "Rhinella gallardoi",
+          "similarnvulgar": "Sapo yungueño grande",
+          "similarclave": "rhinella_gallardoi"
+        },
+        {
+          "similarid": "3",
+          "similarncientifico": "Rhinella major",
+          "similarnvulgar": "Sapito cavador chaqueño",
+          "similarclave": "rhinella_major"
+        },
+        {
+          "similarid": "4",
+          "similarncientifico": "Rhinella rumbolli",
+          "similarnvulgar": "Sapo yungueño de rumboll",
+          "similarclave": "rhinella_rumbolli"
+        },
+        {
+          "similarid": "5",
+          "similarncientifico": "Rhinella diptycha",
+          "similarnvulgar": "Rococó",
+          "similarclave": "rhinella_diptycha"
+        },
+        {
+          "similarid": "6",
+          "similarncientifico": "Rhinella spinulosa",
+          "similarnvulgar": "Sapo andino",
+          "similarclave": "rhinella_spinulosa"
+        }
+      ]
+    },
+    {
+      "id":"2",
+      "clave": "rhinella_gallardoi",
+      "audio ": "display: none;",
+      "imagenes": [
+        {
+          "imagenesclave": "rhinella_gallardoi",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_gallardoi1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_gallardoi2",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Rhinella gallardoi",
+      "nvulgar": "Sapo yungueño grande",
+      "familia": "Bufonidae",
+      "tamano": "Mediano (60 a 95 mm)",
+      "habitat": "Terrestre y acuático",
+      "habito": "Nocturno",
+      "conservauicn": "#ff9500",
+      "conservaarg": "#ffcc00",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal amarronada con manchas oscuras en verrugas grandes. Presenta grandes glándulas ubicadas por arriba o por detrás del tímpano, de forma ovalada. Vientre amarrillento.",
+      "microhabitats": "Se los encuentra en el sotobosque o en arroyos y en el interior de la selva de Yungas.",
+      "rangoaltitud": "1000 a 1700 msnm",
+      "ecoregion": "Yungas",
+      "distrigeneral": "Argentina y posiblemente Bolivia",
+      "distriargentina": "Jujuy",
+      "modoreproductivo": "No se conoce el modo reproductivo.",
+      "similares": [
+        {
+          "similarid": "1",
+          "similarncientifico": "Rhinella arenarum arenarum",
+          "similarnvulgar": "Sapo común",
+          "similarclave": "rhinella_arenarum_arenarum"
+        },
+        {
+          "similarid": "3",
+          "similarncientifico": "Rhinella major",
+          "similarnvulgar": "Sapito cavador chaqueño",
+          "similarclave": "rhinella_major"
+        },
+        {
+          "similarid": "4",
+          "similarncientifico": "Rhinella rumbolli",
+          "similarnvulgar": "Sapo yungueño de rumboll",
+          "similarclave": "rhinella_rumbolli"
+        },
+        {
+          "similarid": "5",
+          "similarncientifico": "Rhinella diptycha",
+          "similarnvulgar": "Rococó",
+          "similarclave": "rhinella_diptycha"
+        },
+        {
+          "similarid": "6",
+          "similarncientifico": "Rhinella spinulosa",
+          "similarnvulgar": "Sapo andino",
+          "similarclave": "rhinella_spinulosa"
+        }
+      ]
+    },
+    {
+      "id":"3",
+      "clave": "rhinella_major",
+      "imagenes": [
+        {
+          "imagenesclave": "rhinella_major",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_major1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_major2",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Rhinella major",
+      "nvulgar": "Sapito cavador chaqueño",
+      "familia": "Bufonidae",
+      "tamano": "Pequeño a mediano (33 a 81 mm)",
+      "habitat": "Terrestre y fosorial",
+      "habito": "Diurno, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Color amarronado o verdoso con manchas más oscuras. Dorso con verrugas cónicas queratinosas con puntas negras. Presenta grandes glándulas ubicadas por arriba o por detrás del tímpano, de forma casi triangular. Vientre granuloso blanquecino sin manchas.",
+      "microhabitats": "Se los encuentra en charcos temporarios en áreas abiertas.",
+      "rangoaltitud": "Hasta 1500 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Paraguay, Bolivia, Brasil y posiblemente Perú",
+      "distriargentina": "Chaco, Corrientes, Formosa, Jujuy, Salta, Santa Fe y Santiago del Estero",
+      "modoreproductivo": "Depositan sus huevos en cordones que se asemejan a collares. Los huevos son de color negro.",
+      "similares": [
+        {
+          "similarid": "1",
+          "similarncientifico": "Rhinella arenarum arenarum",
+          "similarnvulgar": "Sapo común",
+          "similarclave": "rhinella_arenarum_arenarum"
+        },
+        {
+          "similarid": "2",
+          "similarncientifico": "Rhinella gallardoi",
+          "similarnvulgar": "Sapo yungueño grande",
+          "similarclave": "rhinella_gallardoi"
+        },
+        {
+          "similarid": "4",
+          "similarncientifico": "Rhinella rumbolli",
+          "similarnvulgar": "Sapo yungueño de rumboll",
+          "similarclave": "rhinella_rumbolli"
+        },
+        {
+          "similarid": "5",
+          "similarncientifico": "Rhinella diptycha",
+          "similarnvulgar": "Rococó",
+          "similarclave": "rhinella_diptycha"
+        },
+        {
+          "similarid": "6",
+          "similarncientifico": "Rhinella spinulosa",
+          "similarnvulgar": "Sapo andino",
+          "similarclave": "rhinella_spinulosa"
+        }
+      ]
+    },
+    {
+      "id":"4",
+      "clave": "rhinella_rumbolli",
+      "audio ": "display: none;",
+      "imagenes": [
+        {
+          "imagenesclave": "rhinella_rumbolli",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_rumbolli1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "rhinella_rumbolli2",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "rhinella_rumbolli3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_rumbolli4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Rhinella rumbolli",
+      "nvulgar": "Sapo yungueño de rumboll",
+      "familia": "Bufonidae",
+      "tamano": "Pequeño a mediano (40 a 70 mm)",
+      "habitat": "Terrestre",
+      "habito": "Diurno, nocturno",
+      "conservauicn": "#cddc39",
+      "conservaarg": "#ffcc00",
+      "abundancia": "#4cd964",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "fill",
+      "may": "fill",
+      "jun": "fill",
+      "jul": "fill",
+      "ago": "fill",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal marrón clara con diseños oscuros y línea media clara que se extiende desde el hocico hasta la cloaca. Presenta grandes glándulas ubicadas por arriba o por detrás del tímpano, de forma redondeada. Coloración ventral marrón oscura con puntos mas claros.",
+      "microhabitats": "Los machos cantan semisumergidos en las orillas de ríos y arroyos de montaña.",
+      "rangoaltitud": "500 a 1700 msnm",
+      "ecoregion": "Yungas",
+      "distrigeneral": "Argentina y posiblemente Bolivia",
+      "distriargentina": "Jujuy y Salta",
+      "modoreproductivo": "Depositan grupos de más de 2000 huevos de color negro adheridos entre sí. Las puestas son colocadas en el fondo de agua estancada de arroyos y ríos.",
+      "similares": [
+        {
+          "similarid": "1",
+          "similarncientifico": "Rhinella arenarum arenarum",
+          "similarnvulgar": "Sapo común",
+          "similarclave": "rhinella_arenarum_arenarum"
+        },
+        {
+          "similarid": "2",
+          "similarncientifico": "Rhinella gallardoi",
+          "similarnvulgar": "Sapo yungueño grande",
+          "similarclave": "rhinella_gallardoi"
+        },
+        {
+          "similarid": "3",
+          "similarncientifico": "Rhinella major",
+          "similarnvulgar": "Sapito cavador chaqueño",
+          "similarclave": "rhinella_major"
+        },
+        {
+          "similarid": "5",
+          "similarncientifico": "Rhinella diptycha",
+          "similarnvulgar": "Rococó",
+          "similarclave": "rhinella_diptycha"
+        },
+        {
+          "similarid": "6",
+          "similarncientifico": "Rhinella spinulosa",
+          "similarnvulgar": "Sapo andino",
+          "similarclave": "rhinella_spinulosa"
+        }
+      ]
+    },
+    {
+      "id":"5",
+      "clave": "rhinella_diptycha",
+      "imagenes": [
+        {
+          "imagenesclave": "rhinella_diptycha",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "rhinella_diptycha1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "rhinella_diptycha2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_diptycha3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_diptycha4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Rhinella diptycha",
+      "nvulgar": "Rococó",
+      "familia": "Bufonidae",
+      "tamano": "Grande (180 a 210 mm)",
+      "habitat": "Terrestre",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal amarronada a grisácea con manchas irregulares blancas. Piel rugosa con verrugas grandes. Con proyecciones prominentes en la cabeza por encima de los ojos de color marrón o rojiza. Presenta glándulas muy grandes ubicadas por arriba o por detrás del tímpano, dos veces mas larga que ancha. Además con glándulas grandes y alargadas ubicadas en la región posterior de la tibia. Vientre blanquecino salpicado de oscuro.",
+      "microhabitats": "Los machos cantan parados o apoyados en troncos flotantes o que emergen del agua. Se reúnen en gran número para reproducirse en áreas abiertas de remansos de los arroyos o en lagunas.",
+      "rangoaltitud": "Hasta los 2000 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Bolivia, Brazil, Paraguay, Uruguay",
+      "distriargentina": "Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, Misiones, Salta, Santa Fe, Santiago del Estero y Tucumán.",
+      "modoreproductivo": "Depositan huevos de color negro en cordones gelatinosos muy largos que se asemejan a collares, adheridos a la vegetación en el fondo del agua.",
+      "similares": [
+        {
+          "similarid": "1",
+          "similarncientifico": "Rhinella arenarum arenarum",
+          "similarnvulgar": "Sapo común",
+          "similarclave": "rhinella_arenarum_arenarum"
+        },
+        {
+          "similarid": "2",
+          "similarncientifico": "Rhinella gallardoi",
+          "similarnvulgar": "Sapo yungueño grande",
+          "similarclave": "rhinella_gallardoi"
+        },
+        {
+          "similarid": "3",
+          "similarncientifico": "Rhinella major",
+          "similarnvulgar": "Sapito cavador chaqueño",
+          "similarclave": "rhinella_major"
+        },
+        {
+          "similarid": "4",
+          "similarncientifico": "Rhinella rumbolli",
+          "similarnvulgar": "Sapo yungueño de rumboll",
+          "similarclave": "rhinella_rumbolli"
+        },
+        {
+          "similarid": "6",
+          "similarncientifico": "Rhinella spinulosa",
+          "similarnvulgar": "Sapo andino",
+          "similarclave": "rhinella_spinulosa"
+        }
+      ]
+    },
+    {
+      "id":"6",
+      "clave": "rhinella_spinulosa",
+      "audio ": "display: none;",
+      "imagenes": [
+        {
+          "imagenesclave": "rhinella_spinulosa",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_spinulosa1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_spinulosa2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "rhinella_spinulosa3",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Rhinella spinulosa",
+      "nvulgar": "Sapo andino",
+      "familia": "Bufonidae",
+      "tamano": "Mediano (65 a 95 mm)",
+      "habitat": "Terrestre",
+      "habito": "Diurno, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal amarronada a verdosa con manchas blancas a marrones. Piel rugosa con verrugas con espinas queratinizadas. Presenta glándulas pequeñas ubicadas por arriba o por detrás del tímpano, de forma redondeada. Vientre blanquecino con diminutas manchas negras. Palmas de las manos amarilla a anaranjada en algunas poblaciones.",
+      "microhabitats": "Son comunes en las orillas de rios y lagunas. Los machos no vocalizan.",
+      "rangoaltitud": "Hasta los 5100 msnm",
+      "ecoregion": "Monte de Sierras y Bolsones, Puna y Altos Andes",
+      "distrigeneral": "Argentina, Bolivia, Chile, Peru",
+      "distriargentina": "Catamarca, Jujuy, La Rioja, Mendoza, Salta, San Juan y Tucumán.",
+      "modoreproductivo": "Depositan huevos de color negro en cordones gelatinosos que se asemejan a collares, en el fondo de arroyos andinos.",
+      "similares": [
+        {
+          "similarid": "1",
+          "similarncientifico": "Rhinella arenarum arenarum",
+          "similarnvulgar": "Sapo común",
+          "similarclave": "rhinella_arenarum_arenarum"
+        },
+        {
+          "similarid": "2",
+          "similarncientifico": "Rhinella gallardoi",
+          "similarnvulgar": "Sapo yungueño grande",
+          "similarclave": "rhinella_gallardoi"
+        },
+        {
+          "similarid": "3",
+          "similarncientifico": "Rhinella major",
+          "similarnvulgar": "Sapito cavador chaqueño",
+          "similarclave": "rhinella_major"
+        },
+        {
+          "similarid": "4",
+          "similarncientifico": "Rhinella rumbolli",
+          "similarnvulgar": "Sapo yungueño de rumboll",
+          "similarclave": "rhinella_rumbolli"
+        },
+        {
+          "similarid": "5",
+          "similarncientifico": "Rhinella diptycha",
+          "similarnvulgar": "Rococó andino",
+          "similarclave": "rhinella_diptycha"
+        }
+      ]
+    },
+    {
+      "id":"7",
+      "clave": "ceratophrys_cranwelli",
+      "imagenes": [
+        {
+          "imagenesclave": "ceratophrys_cranwelli",
+          "imagenescopyright": "M. Vaira"
+        },
+        {
+          "imagenesclave": "ceratophrys_cranwelli1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "ceratophrys_cranwelli2",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Ceratophrys cranwelli",
+      "nvulgar": "Escuerzo chaqueño",
+      "familia": "Ceratophryidae",
+      "tamano": "Grande (75 a 130 mm)",
+      "habitat": "Terrestre y fosorial",
+      "habito": "Nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#ffcc00",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "De cuerpo robusto de aspecto globoso y patas cortas. Una característica distintiva son las proyecciones similares a cuernos sobre los ojos. Su piel dorsal es granulosa, de color marrón o verde claro con manchas oscuras alargadas y poco notorias, bordeadas de claro. El vientre liso blanquecino amarillento.",
+      "microhabitats": "Se los encuentra en cuerpos de agua temporarios, generalmente semienterrado en la orilla de los mismos. Presentan una reproducción explosiva. Para evitar la desecación, produce una cubierta o cocón, formada por las sucesivas mudas de piel acumuladas.",
+      "rangoaltitud": "Hasta 700 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina; Bolivia; Brasil y Paraguay",
+      "distriargentina": "Chaco, Córdoba, Formosa, Entre Ríos, Jujuy, Mendoza, Salta, San Luis, Santa Fe, Santiago del Estero, Tucumán.",
+      "modoreproductivo": "Depositan sus huevos sueltos en el fondo del cuerpo de agua",
+      "similares": []
+    },
+    {
+      "id":"8",
+      "clave": "oreobates_barituensis",
+      "imagenes": [
+        {
+          "imagenesclave": "oreobates_barituensis",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "oreobates_barituensis1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "oreobates_barituensis2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "oreobates_barituensis3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "oreobates_barituensis4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Oreobates barituensis",
+      "nvulgar": "Ranita de hojarasca de Baritú",
+      "familia": "Craugastoridae",
+      "tamano": "Pequeño (20 a 30 mm)",
+      "habitat": "Terrestre",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#cddc39",
+      "conservaarg": "#ffcc00",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#ffcc00",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso liso de color marrón claro con un patrón difuso de manchas más oscuras y un punto glandular negro sobre los hombros. Patas traseras y delanteras con manchas oscuras formando barras. Extremo de los dedos expandidos en forma de T. Vientre claro.",
+      "microhabitats": "Especie especialista de hábitar, es común econtrarlos en salientes de roca arcillosa a los costados de los caminos de montaña o barrancos de los cursos de agua. Los machos vocalizan de noche sobre el suelo desnundo.",
+      "rangoaltitud": "500 a 1700 msnm",
+      "ecoregion": "Yungas",
+      "distrigeneral": "Argentina",
+      "distriargentina": "Jujuy, Salta y Tucumán",
+      "modoreproductivo": "Presentan huevos con desarrollo directo, muy grandes colocados en una única masa de no más de 30 huevos. Los huevos son depositados en grietas de las paredes rocosas o bajo grandes piedras. Están totalmente independizados del agua, del huevo emergen juveniles que no pasaron por la etapa de renacuajo.",
+      "similares": [
+        {
+          "similarid": "9",
+          "similarncientifico": "Oreobates berdemenos",
+          "similarnvulgar": "Ranita de hojarasca Yungueña",
+          "similarclave": "oreobates_berdemenos"
+        }
+      ]
+    },
+    {
+      "id":"9",
+      "clave": "oreobates_berdemenos",
+      "imagenes": [
+        {
+          "imagenesclave": "oreobates_berdemenos",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "oreobates_berdemenos1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "oreobates_berdemenos2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "oreobates_berdemenos3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "oreobates_berdemenos4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Oreobates berdemenos",
+      "nvulgar": "Ranita de hojarasca Yungueña",
+      "familia": "Craugastoridae",
+      "tamano": "Pequeño (20 a 40 mm)",
+      "habitat": "Terrestre",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#ffcc00",
+      "conservaarg": "gray",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso liso de color marrón rojizo con un patrón de manchas más oscuras. Patas traseras y delanteras con manchas oscuras formando barras. Extremo de los dedos expandidos en forma de T. Vientre claro con pequeñas manchas oscuras en la garganta.",
+      "microhabitats": "Son comunes en la hojarasca del sotobosque de la selva montana y bosque montano de Yungas. Se puede observar los machos cantando desde el crepúsculo desde el suelo del bosque sobre hojarasca o rocas.",
+      "rangoaltitud": "1100 a 2300 msnm",
+      "ecoregion": "Yungas",
+      "distrigeneral": "Argentina",
+      "distriargentina": "Jujuy y Salta",
+      "modoreproductivo": "Presentan huevos desarrollo directo, muy grandes colocados en una única masa de no más de 30 huevos. Los huevos son semienterrados bajo troncos caídos o bajo grandes piedras. Están totalmente independizados del agua, del huevo emergen juveniles que no pasaron por la etapa de renacuajo.",
+      "similares": [
+        {
+          "similarid": "8",
+          "similarncientifico": "Oreobates barituensis",
+          "similarnvulgar": "Ranita de hojarasca de Baritú",
+          "similarclave": "oreobates_barituensis"
+        }
+      ]
+    },
+    {
+      "id":"10",
+      "clave": "gastrotheca_christiani",
+      "imagenes": [
+        {
+          "imagenesclave": "gastrotheca_christiani",
+          "imagenescopyright": "M. Vaira"
+        }
+      ],
+      "ncientifico": "Gastrotheca christiani",
+      "nvulgar": "Rana marsupial de Calilegua",
+      "familia": "Hemiphractidae",
+      "tamano": "Pequeño (30 a 40 mm)",
+      "habitat": "Terrestre",
+      "habito": "Nocturno",
+      "conservauicn": "#ff9500",
+      "conservaarg": "#ff3b30",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "fill",
+      "may": "fill",
+      "jun": "fill",
+      "jul": "fill",
+      "ago": "fill",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "La coloración dorsal varía del marrón claro al gris con pequeños círculos blancos u amarillos. También presenta manchas mas oscuras, una en forma de T entre los ojos. Dedos largos, con discos terminales y pequeña membrana en la base de los dedos. Vientre blancuzco con pequeñas manchas marrones, más numerosas en garganta y pecho. Hembras con un saco de piel en el dorso donde porta los huevos una vez fecundados, que se habre hacia posterior. En el dorso de los machos se observa un pliegue de piel en forma de herradura por sobre la cloaca.",
+      "microhabitats": "Por sus hábitos son difíciles de observar, ya que pasan la mayor parte del tiempo ocultas en grietas de paredes rocosas, en cavidades y troncos. Esta especie sólo vive en las selvas de las Yungas de Jujuy. Sin embargo, existe gran preocupación por su estado de conservación ya que no se la registra en la naturaleza desde el año 1996.",
+      "rangoaltitud": "1500 a 2700 msnm",
+      "ecoregion": "Yungas",
+      "distrigeneral": "Argentina",
+      "distriargentina": "Jujuy y Salta",
+      "modoreproductivo": "Depositan pocos huevos y grandes que son incubados en el saco dorsal que presentan las hembras. Allí se desarrollan los renacuajos hasta la metamorfosis, emergiendo como juveniles completamente formados.",
+      "similares": [
+      ]
+    },
+    {
+      "id":"11",
+      "clave": "boana_raniceps",
+      "imagenes": [
+        {
+          "imagenesclave": "boana_raniceps",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "boana_raniceps1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "boana_raniceps2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "boana_raniceps3",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Boana raniceps",
+      "nvulgar": "Rana trepadora del Chaco",
+      "familia": "Hylidae",
+      "tamano": "Mediano (35 a 65 mm)",
+      "habitat": "Arborícola y acuático",
+      "habito": "Nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#ffcc00",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#ffcc00",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso de color marrón claro a amarillento, generalmente liso pero en algunos ejemplares con una línea media oscura. Patas muy largas y delgadas. Muslos con un patrón de barras oscuras, negro violáceo. Dedos con discos medianamente expandidos. Patas traseras con membrana entre los dedos. Vientre de color blanquecino o amarillento, con manchas débiles en la garganta y el pecho. Tímpano distinguible, de coloración y textura distinta a la piel del resto del cuerpo.",
+      "microhabitats": "Se los observa en el agua o en la vegetación que crece alrededor de charcos y lagunas, también a orillas de grandes ríos.",
+      "rangoaltitud": "Desde los 400 msnm",
+      "ecoregion": "Yungas y Chaco",
+      "distrigeneral": "Colombia y Venezuela, Guayana Francesa, Brasil, Paraguay, Bolivia y Argentina",
+      "distriargentina": "Buenos Aires, Chaco, Corrientes, Entre Ríos, Formosa, Jujuy, Misiones, Salta, Santa Fe y Santiago del Estero",
+      "modoreproductivo": "Pone los huevos en masas gelatinosas adheridas a la vegetación dentro del agua.",
+      "similares": [
+        {
+          "similarid": "12",
+          "similarncientifico": "Boana riojana",
+          "similarnvulgar": "Rana del zarzal",
+          "similarclave": "boana_riojana"
+        }
+      ]
+    },
+    {
+      "id":"12",
+      "clave": "boana_riojana",
+      "imagenes": [
+        {
+          "imagenesclave": "boana_riojana",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "boana_riojana1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "boana_riojana2",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "boana_riojana3",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "boana_riojana4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Boana riojana",
+      "nvulgar": "Rana del zarzal",
+      "familia": "Hylidae",
+      "tamano": "Pequeño (45 a 50 mm)",
+      "habitat": "Acuático",
+      "habito": "Crepuscular y nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "fill",
+      "may": "fill",
+      "jun": "fill",
+      "jul": "fill",
+      "ago": "fill",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal muy variable, desde verde intenso, dorado u ocre completamente uniforme hasta combinaciones con manchas irregulares negras, marrones, doradas o blanquecinas. Patas muy largas y delgadas. Laterales y parte anterior y posterior de los muslos y patas de color celeste o amarrilento con barras oscuras. Vientre claro y muy granular. Tímpano distinguible, de coloración y textura distinta a la piel del resto del cuerpo. Discos adhesivos de los dedos de aspecto circular. Machos con una prolongación en forma de espina en el dedo pulgar de la mano.",
+      "microhabitats": "Se los observa en el borde de ríos, arroyos o represas. Cantan desde la vegetación o sobre piedras parcialmente ocultos. Son más abundantes durante los meses más fríos y con menor precipitaciones, aunque es posible escucharlos todo el año.",
+      "rangoaltitud": "500 a 3400 m",
+      "ecoregion": "Yungas, Chaco Seco, Puna y Monte de Sierras y Bolsones",
+      "distrigeneral": "Bolivia y Argentina; posiblemente Perú",
+      "distriargentina": "Salta, Jujuy, Tucumán, Catamarca y La Rioja",
+      "modoreproductivo": "Ponen sus huevos en remansos de arroyos. Depositan sus huevos en una única masa de huevos de color negro adheridos a la vegetación semisumergida, a grandes piedras o directamente en el fondo pedregoso. La puesta se asemeja a una gran mora.",
+      "similares": [
+        {
+          "similarid": "11",
+          "similarncientifico": "Boana raniceps",
+          "similarnvulgar": "Rana trepadora del Chaco",
+          "similarclave": "boana_raniceps"
+        }
+      ]
+    },
+    {
+      "id":"13",
+      "clave": "dendropsophus_minutus",
+      "imagenes": [
+        {
+          "imagenesclave": "dendropsophus_minutus",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "dendropsophus_minutus1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "dendropsophus_minutus2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "dendropsophus_minutus3",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Dendropsophus minutus",
+      "nvulgar": "Ranita amarilla",
+      "familia": "Hylidae",
+      "tamano": "Pequeño (20 a 26 mm)",
+      "habitat": "Arborícola",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "gray",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Su piel es lisa, dorso amarillento con manchas dorsolaterales amarronadas con bordes bien marcados en la cabeza y la espalda. El vientre es blanco amarillento sin manchas. Tímpano poco distinguible, de la misma coloración del resto del cuerpo. Discos adhesivos en el extremo de los dedos. Se diferencia fácilmente de Dendropsophus nanus por el canto.",
+      "microhabitats": "Típica de charcos semipermanentes y lagunas. Los machos cantan desde el interior del cuerpo de agua aferrados a la vegetación que sobresale o desde la costa con vegetación baja o suelo desnudo.",
+      "rangoaltitud": "Hasta 2000 msnm",
+      "ecoregion": "Yungas y Chaco Seco",
+      "distrigeneral": "Argentina, Bolivia, Brasil, Colombia, Ecuador, Guayana Francesa, Guyana, Paraguay, Perú, Surinam, Trinidad y Tobago, Uruguay, Venezuela",
+      "distriargentina": "Jujuy, Salta, Misiones",
+      "modoreproductivo": "Huevos pequeños y grisáceos adheridos a la vegetación enraizada en el cuerpo de agua formando masas poco compactas.",
+      "similares": [
+        {
+          "similarid": "14",
+          "similarncientifico": "Dendropsophus nanus",
+          "similarnvulgar": "Ranita amarilla",
+          "similarclave": "dendropsophus_nanus"
+        }
+      ]
+    },
+    {
+      "id":"14",
+      "clave": "dendropsophus_nanus",
+      "imagenes": [
+        {
+          "imagenesclave": "dendropsophus_nanus",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "dendropsophus_nanus1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "dendropsophus_nanus2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "dendropsophus_nanus3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "dendropsophus_nanus4",
+          "imagenescopyright": "L. Pereyra"
+        }
+      ],
+      "ncientifico": "Dendropsophus nanus",
+      "nvulgar": "Ranita amarilla",
+      "familia": "Hylidae",
+      "tamano": "Pequeño (20 a 26 mm)",
+      "habitat": "Arborícola",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Presentan una piel lisa, con el dorso de color amarillento con manchas dorsolaterales amarronadas con bordes bien marcados en la cabeza y la espalda. El vientre es blanco amarillento sin manchas. Tímpano poco distinguible, de la misma coloración del resto del cuerpo. Discos adhesivos en el extremo de los dedos. Se diferencia fácilmente de Dendropsophus minutus por el canto. ",
+      "microhabitats": "Típica de charcos semipermanentes y lagunas. Los machos cantan desde el interior del cuerpo de agua aferrados a la vegetación que sobresale o desde la costa con vegetación baja o suelo desnudo.",
+      "rangoaltitud": "Hasta 1500 msnm",
+      "ecoregion": "Yungas y Chaco Seco",
+      "distrigeneral": "Argentina; Bolivia; Brasil; Paraguay y Uruguay",
+      "distriargentina": "Buenos Aires, Chaco, Corrientes, Entre Ríos, Formosa, Jujuy, Misiones, Salta, Santa Fé y Tucumán",
+      "modoreproductivo": "Huevos pequeños y grisáceos adheridos a la vegetación enraizada en el cuerpo de agua formando masas poco compactas.",
+      "similares": [
+        {
+          "similarid": "13",
+          "similarncientifico": "Dendropsophus minutus",
+          "similarnvulgar": "Ranita amarilla",
+          "similarclave": "dendropsophus_minutus"
+        }
+      ]
+    },
+    {
+      "id":"15",
+      "clave": "scinax_fuscovarius",
+      "imagenes": [
+        {
+          "imagenesclave": "scinax_fuscovarius",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "scinax_fuscovarius1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "scinax_fuscovarius2",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "scinax_fuscovarius3",
+          "imagenescopyright": "L. Pereyra"
+        }
+      ],
+      "ncientifico": "Scinax fuscovarius",
+      "nvulgar": "Rana trepadora",
+      "familia": "Hylidae",
+      "tamano": "Pequeño (41 a 48 mm)",
+      "habitat": "Arborícola y terrestre",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal marrón a verde amarillento con puntos o barras más oscuras de ubicación variable. Es constante la presencia de una mancha oscura detrás de la cabeza con forma de paréntesis abiertos. Vientre claro con manchas en garganta y parte anterior.",
+      "microhabitats": "Forman coros numeroros y muy ruidosos. Los machos cantan trepados a la vegetación sobre la costa de charcos o lagunas temporarias de poca profundidad.",
+      "rangoaltitud": "150 a 1800 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Brasil, Paraguay, Bolivia, Uruguay",
+      "distriargentina": "Chaco, Corrientes, Formosa, Jujuy, Misiones,Salta, Santa Fe, Santiago del Estero y Tucumán",
+      "modoreproductivo": "Depositan huevos en masas adheridas a la vegetación en charcos poco profundos.",
+      "similares": [
+        {
+          "similarid": "16",
+          "similarncientifico": "Scinax nasicus",
+          "similarnvulgar": "Ranita hocicuda lisa",
+          "similarclave": "scinax_nasicus"
+        }
+      ]
+    },
+    {
+      "id":"16",
+      "clave": "scinax_nasicus",
+      "imagenes": [
+        {
+          "imagenesclave": "scinax_nasicus",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "scinax_nasicus1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "scinax_nasicus2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "scinax_nasicus3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "scinax_nasicus4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Scinax nasicus",
+      "nvulgar": "Ranita hocicuda lisa",
+      "familia": "Hylidae",
+      "tamano": "Pequeño (27 a 35 mm)",
+      "habitat": "Arborícola",
+      "habito": "Nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal gris amaronado con manchas más oscuras, con una mancha oscura en forma de X o paréntesis invertidos, a la altura de los hombros. Parte anterior y posterior de los muslos con un patrón de barras o reticulado oscuro. Coloración ventral blanquecina.",
+      "microhabitats": "Los machos cantan desde los árboles cercanos a cuerpos de agua.",
+      "rangoaltitud": "Hasta 1000 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Paraguay, Argentina, Uruguay, Bolivia, Brasil",
+      "distriargentina": "Buenos Aires, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, Misiones, Salta, Santa Fe, Santiago del Estero y Tucumán.",
+      "modoreproductivo": "Depositan huevos en masas adheridas a la vegetación en charcos poco profundos.",
+      "similares": [
+        {
+          "similarid": "15",
+          "similarncientifico": "Scinax fuscovarius",
+          "similarnvulgar": "Rana trepadora",
+          "similarclave": "scinax_fuscovarius"
+        }
+      ]
+    },
+    {
+      "id":"17",
+      "clave": "trachycephalus_typhonius",
+      "imagenes": [
+        {
+          "imagenesclave": "trachycephalus_typhonius",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "trachycephalus_typhonius1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "trachycephalus_typhonius2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "trachycephalus_typhonius3",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Trachycephalus typhonius",
+      "nvulgar": "Rana lechera",
+      "familia": "Hylidae",
+      "tamano": "Grande (100 a 114 mm)",
+      "habitat": "Arborícola",
+      "habito": "Nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#4cd964",
+      "ene": "outline",
+      "feb": "outline",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso amarronado con grandes manchas o franjas oscuras que contrastan notablemente. El vientre es claro y granuloso. Piel de aspecto granuloso. Los machos con dos sacos vocales que al inflarse se elevan hacia arriba a ambos lados de la cabeza.",
+      "microhabitats": "Los machos cantan en grupos flotando sobre la superficie en cuerpos de agua profundos. Períodos de actividad muy cortados que generalmente coinciden con las primeras lluvias fuertes de verano. Coros muy ruidosos. Al tocarla produce una secreción lechosa pegajosa muy irritante de las mucosas.",
+      "rangoaltitud": "Hasta los 1610 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Belice, Bolivia, Brasil, Colombia, Costa Rica, Guayana Francesa, Guatemala, Guyana, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, Suriname, Trinidad y Tobago, Venezuela",
+      "distriargentina": "Chaco, Corrientes, Entre Ríos, Formosa, Misiones, Jujuy, Salta, Santa Fe y Santiago del Estero",
+      "modoreproductivo": "Depositan una extensa capa delgada de huevos y gelatina en la superficie de charcos poco profundos.",
+      "similares": [
+      ]
+    },
+    {
+      "id":"18",
+      "clave": "leptodactylus_bufonius",
+      "imagenes": [
+        {
+          "imagenesclave": "leptodactylus_bufonius",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_bufonius1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_bufonius2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_bufonius3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_bufonius4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Leptodactylus bufonius",
+      "nvulgar": "Rana de labios blancos",
+      "familia": "Leptodactylidae",
+      "tamano": "Mediano (60 a 65 mm)",
+      "habitat": "Terrestre y fosorial",
+      "habito": "Nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal gris a amarronada con manchas redondeadas negras brillantes bien definidas. Con glándulas que forman una cadena glandular en los laterales del cuerpo. Tímpanos grandes y transparentes. Vientre blanco.",
+      "microhabitats": "Los machos cantan desde las cavidades que construyen a orilla de charcos temporarios.",
+      "rangoaltitud": "800 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Bolivia, Paraguay, Brasil y Argentina",
+      "distriargentina": "Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Rioja, Mendoza, Misiones, Salta, San Juan, San Luis, Santa Fe, Santiago del Estero y Tucumán.",
+      "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+      "similares": [
+        {
+          "similarid": "19",
+          "similarncientifico": "Juveniles de Leptodactylus macrosternum",
+          "similarnvulgar": "Rana criolla",
+          "similarclave": "leptodactylus_macrosternum"
+        },
+        {
+          "similarid": "20",
+          "similarncientifico": "Leptodactylus elenae",
+          "similarnvulgar": "Rana marmorada",
+          "similarclave": "leptodactylus_elenae"
+        },
+        {
+          "similarid": "21",
+          "similarncientifico": "Leptodactylus fuscus",
+          "similarnvulgar": "Rana colorada",
+          "similarclave": "leptodactylus_fuscus"
+        },
+        {
+          "similarid": "22",
+          "similarncientifico": "Leptodactylus gracilis",
+          "similarnvulgar": "Rana hocicuda",
+          "similarclave": "leptodactylus_gracilis"
+        },
+        {
+          "similarid": "23",
+          "similarncientifico": "Leptodactylus latinasus",
+          "similarnvulgar": "Ranita de las banquinas",
+          "similarclave": "leptodactylus_latinasus"
+        },
+        {
+          "similarid": "24",
+          "similarncientifico": "Leptodactylus apepyta",
+          "similarnvulgar": "Rana de bigotes",
+          "similarclave": "leptodactylus_apepyta"
+        }
+      ]
+    },
+    {
+      "id":"19",
+      "clave": "leptodactylus_macrosternum",
+      "imagenes": [
+        {
+          "imagenesclave": "leptodactylus_macrosternum",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_macrosternum1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_macrosternum2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_macrosternum3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_macrosternum4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Leptodactylus macrosternum",
+      "nvulgar": "Rana criolla",
+      "familia": "Leptodactylidae",
+      "tamano": "Mediano (85 a 90 mm)",
+      "habitat": "Terrestre y acuático",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#4cd964",
+      "dauditiva": "#ff3b30",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "outline",
+      "nov": "outline",
+      "dic": "outline",
+      "caracteristicas": "Dorso con ocho pliegues longitudinales. Coloración dorsal verde oscuro o marrón con manchas redondeadas. Presencia de una mancha triangular entre los ojos. La parte inferior de los muslos de color verdoso uniforme. El vientre es blanco y liso con un pliegue en el abdomen.",
+      "microhabitats": "Los machos cantan desde el borde o dentro del agua de charcos o áreas inundadas. Las hembras son observadas cuidando los cardúmenes de renacuajos dentro de los charcos.",
+      "rangoaltitud": "Hasta 1000 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Bolivia, Paraguay, Uruguay, Brasil",
+      "distriargentina": "Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, Salta, Santa Fe, Santiago del Estero, y Tucumán.",
+      "modoreproductivo": "Los huevos pequeños y de color negro son depositados en nidos de espuma de grandes dimensiones (≈ 20 cm). Los renacuajos forman grandes grupos en constante movimiento que recuerdan a cardúmenes de peces y son cuidados por la hembra.",
+      "similares": [
+        {
+          "similarid": "18",
+          "similarncientifico": "Leptodactylus bufonius",
+          "similarnvulgar": "Rana de labios blancos",
+          "similarclave": "leptodactylus_bufonius"
+        },
+        {
+          "similarid": "20",
+          "similarncientifico": "Leptodactylus elenae",
+          "similarnvulgar": "Rana marmorada",
+          "similarclave": "leptodactylus_elenae"
+        },
+        {
+          "similarid": "21",
+          "similarncientifico": "Leptodactylus fuscus",
+          "similarnvulgar": "Rana colorada",
+          "similarclave": "leptodactylus_fuscus"
+        },
+        {
+          "similarid": "22",
+          "similarncientifico": "Leptodactylus gracilis",
+          "similarnvulgar": "Rana hocicuda",
+          "similarclave": "leptodactylus_gracilis"
+        },
+        {
+          "similarid": "23",
+          "similarncientifico": "Leptodactylus latinasus",
+          "similarnvulgar": "Ranita de las banquinas",
+          "similarclave": "leptodactylus_latinasus"
+        },
+        {
+          "similarid": "24",
+          "similarncientifico": "Leptodactylus apepyta",
+          "similarnvulgar": "Rana de bigotes",
+          "similarclave": "leptodactylus_apepyta"
+        }
+      ]
+    },
+    {
+      "id":"20",
+      "clave": "leptodactylus_elenae",
+      "imagenes": [
+        {
+          "imagenesclave": "leptodactylus_elenae",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_elenae1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_elenae2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_elenae3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_elenae4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Leptodactylus elenae",
+      "nvulgar": "Rana marmorada",
+      "familia": "Leptodactylidae",
+      "tamano": "Pequeño (49 a 55 mm)",
+      "habitat": "Terrestre y fosorial",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "outline",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso con cuatro pliegues longitudinales resaltados con líneas blancas y negras. En el lateral de la cabeza con dos bandas oscuras separadas por una banda clara. Entre los ojos presenta una mancha en forma de mariposa. Parte posterior de los muslos con una banda longitudinal clara blanca amarillenta con barras. Machos con saco vocal oscuros y expandido lateralmente.",
+      "microhabitats": "Los machos cantan sobre el suelo semiocultos en la vegetación baja de los bordes de pequeños charcos de agua de lluvia.",
+      "rangoaltitud": "Desde los 500 msnm",
+      "ecoregion": "Chaco Seco y Yungas ",
+      "distrigeneral": "Argentina, Bolivia, Paraguay, Brasil",
+      "distriargentina": "Chaco, Corrientes, Entre Ríos, Formosa, Jujuy, Misiones, Salta, Santa Fe, Santiago del Estero",
+      "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+      "similares": [
+        {
+          "similarid": "18",
+          "similarncientifico": "Leptodactylus bufonius",
+          "similarnvulgar": "Rana de labios blancos",
+          "similarclave": "leptodactylus_bufonius"
+        },
+        {
+          "similarid": "19",
+          "similarncientifico": "Juveniles de Leptodactylus macrosternum",
+          "similarnvulgar": "Rana criolla",
+          "similarclave": "leptodactylus_macrosternum"
+        },
+        {
+          "similarid": "21",
+          "similarncientifico": "Leptodactylus fuscus",
+          "similarnvulgar": "Rana colorada",
+          "similarclave": "leptodactylus_fuscus"
+        },
+        {
+          "similarid": "22",
+          "similarncientifico": "Leptodactylus gracilis",
+          "similarnvulgar": "Rana hocicuda",
+          "similarclave": "leptodactylus_gracilis"
+        },
+        {
+          "similarid": "23",
+          "similarncientifico": "Leptodactylus latinasus",
+          "similarnvulgar": "Ranita de las banquinas",
+          "similarclave": "leptodactylus_latinasus"
+        },
+        {
+          "similarid": "24",
+          "similarncientifico": "Leptodactylus apepyta",
+          "similarnvulgar": "Rana de bigotes",
+          "similarclave": "leptodactylus_apepyta"
+        }
+      ]
+    },
+    {
+      "id":"21",
+      "clave": "leptodactylus_fuscus",
+      "imagenes": [
+        {
+          "imagenesclave": "leptodactylus_fuscus",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "leptodactylus_fuscus1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_fuscus2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_fuscus3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_fuscus4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Leptodactylus fuscus",
+      "nvulgar": "Rana colorada",
+      "familia": "Leptodactylidae",
+      "tamano": "Mediano (50 a 55 mm)",
+      "habitat": "Fosorial",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "fill",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso con seis pliegues longitudinales. Coloración dorsal gris amarronado con tinte cobrizo o rojizo en ciertas áreas del cuerpo; manchas irregulares más oscuras y una de forma triangular entre los ojos. Algunos ejemplares con una línea central clara. En las tibias presentan bandas transversales oscuras.",
+      "microhabitats": "Los machos cantan sobre el suelo expuestos o semiocultos en la vegetación o refugiados en las cuevas. Se los encuentra en próximos a charcos temporarios o en playas inundables de ríos y arroyos.",
+      "rangoaltitud": "Hasta los 1700 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Brasil, Bolivia, Colombia, Guayana Francesa, Guayana, Panamá, Paraguay, Perú, Suriname, Trinidad y Tobago y Venezuela.",
+      "distriargentina": "Chaco, Corrientes, Entre Ríos, Misiones, Formosa, Jujuy,Salta, Santa Fe, Santiago del Estero y Tucumán",
+      "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+      "similares": [
+        {
+          "similarid": "18",
+          "similarncientifico": "Leptodactylus bufonius",
+          "similarnvulgar": "Rana de labios blancos",
+          "similarclave": "leptodactylus_bufonius"
+        },
+        {
+          "similarid": "19",
+          "similarncientifico": "Juveniles de Leptodactylus macrosternum",
+          "similarnvulgar": "Rana criolla",
+          "similarclave": "leptodactylus_macrosternum"
+        },
+        {
+          "similarid": "20",
+          "similarncientifico": "Leptodactylus elenae",
+          "similarnvulgar": "Rana marmorada",
+          "similarclave": "leptodactylus_elenae"
+        },
+        {
+          "similarid": "22",
+          "similarncientifico": "Leptodactylus gracilis",
+          "similarnvulgar": "Rana hocicuda",
+          "similarclave": "leptodactylus_gracilis"
+        },
+        {
+          "similarid": "23",
+          "similarncientifico": "Leptodactylus latinasus",
+          "similarnvulgar": "Ranita de las banquinas",
+          "similarclave": "leptodactylus_latinasus"
+        },
+        {
+          "similarid": "24",
+          "similarncientifico": "Leptodactylus apepyta",
+          "similarnvulgar": "Rana de bigotes",
+          "similarclave": "leptodactylus_apepyta"
+        }
+      ]
+    },
+    {
+      "id":"22",
+      "clave": "leptodactylus_gracilis",
+      "imagenes": [
+        {
+          "imagenesclave": "leptodactylus_gracilis",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_gracilis1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_gracilis2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_gracilis3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_gracilis4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Leptodactylus gracilis",
+      "nvulgar": "Rana hocicuda",
+      "familia": "Leptodactylidae",
+      "tamano": "Pequeño (45 a 50mm)",
+      "habitat": "Terrestre y fosorial",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#ffcc00",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso con seis pliegues longitudinales. Coloración dorsal verde amarillenta con líneas longitudinales claras. Región visible de las tibias con dos líneas longitudinales claras encima de barras transversales. Vientre liso blanco-amarillento.",
+      "microhabitats": "Los machos cantan desde el interior de las cuevas que construyen para poner los huevos. Se los encuentra en áreas cercanas a los charcos de los costados del camino.",
+      "rangoaltitud": "200 a 2000 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Brasil, Uruguay, Paraguay y Bolivia.",
+      "distriargentina": "Buenos Aires, Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, Misiones, Salta, San Luis, Santa Fe, Santiago del Estero y Tucumán.",
+      "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+      "similares": [
+        {
+          "similarid": "18",
+          "similarncientifico": "Leptodactylus bufonius",
+          "similarnvulgar": "Rana de labios blancos",
+          "similarclave": "leptodactylus_bufonius"
+        },
+        {
+          "similarid": "19",
+          "similarncientifico": "Juveniles de Leptodactylus macrosternum",
+          "similarnvulgar": "Rana criolla",
+          "similarclave": "leptodactylus_macrosternum"
+        },
+        {
+          "similarid": "20",
+          "similarncientifico": "Leptodactylus elenae",
+          "similarnvulgar": "Rana marmorada",
+          "similarclave": "leptodactylus_elenae"
+        },
+        {
+          "similarid": "21",
+          "similarncientifico": "Leptodactylus fuscus",
+          "similarnvulgar": "Rana colorada",
+          "similarclave": "leptodactylus_fuscus"
+        },
+        {
+          "similarid": "23",
+          "similarncientifico": "Leptodactylus latinasus",
+          "similarnvulgar": "Ranita de las banquinas",
+          "similarclave": "leptodactylus_latinasus"
+        },
+        {
+          "similarid": "24",
+          "similarncientifico": "Leptodactylus apepyta",
+          "similarnvulgar": "Rana de bigotes",
+          "similarclave": "leptodactylus_apepyta"
+        }
+      ]
+    },
+    {
+      "id":"23",
+      "clave": "leptodactylus_latinasus",
+      "imagenes": [
+        {
+          "imagenesclave": "leptodactylus_latinasus",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "leptodactylus_latinasus1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "leptodactylus_latinasus2",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "leptodactylus_latinasus3",
+          "imagenescopyright": "L. Pereyra"
+        }
+      ],
+      "ncientifico": "Leptodactylus latinasus",
+      "nvulgar": "Ranita de las banquinas",
+      "familia": "Leptodactylidae",
+      "tamano": "Pequeño (30 a 40 mm)",
+      "habitat": "Terrestre",
+      "habito": "Diurno, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal gris a amarronada con un patrón de manchas irregulares más oscuras. Con glándulas que forman una cadena glandular en los laterales del cuerpo. Presenta una mancha romboidal entre los hombros. Vientre claro y liso con un pliegue en el abdomen.",
+      "microhabitats": "Los machos cantan aún en pleno día ocultos en cuevas que ellos construyen o aprovechando refugios naturales. A la noche cantan sobre el suelo desnudo o apenas ocultos en la vegetación. Se los encuentra próximos a charcos o pequeños cursos de agua.",
+      "rangoaltitud": "Hasta 600 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Bolivia, Brasil, Paraguay y Uruguay.",
+      "distriargentina": "Buenos Aires, Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, Salta, Santa Fe, Santiago del Estero y Tucumán.",
+      "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+      "similares": [
+        {
+          "similarid": "18",
+          "similarncientifico": "Leptodactylus bufonius",
+          "similarnvulgar": "Rana de labios blancos",
+          "similarclave": "leptodactylus_bufonius"
+        },
+        {
+          "similarid": "19",
+          "similarncientifico": "Juveniles de Leptodactylus macrosternum",
+          "similarnvulgar": "Rana criolla",
+          "similarclave": "leptodactylus_macrosternum"
+        },
+        {
+          "similarid": "20",
+          "similarncientifico": "Leptodactylus elenae",
+          "similarnvulgar": "Rana marmorada",
+          "similarclave": "leptodactylus_elenae"
+        },
+        {
+          "similarid": "21",
+          "similarncientifico": "Leptodactylus fuscus",
+          "similarnvulgar": "Rana colorada",
+          "similarclave": "leptodactylus_fuscus"
+        },
+        {
+          "similarid": "22",
+          "similarncientifico": "Leptodactylus gracilis",
+          "similarnvulgar": "Rana hocicuda",
+          "similarclave": "leptodactylus_gracilis"
+        },
+        {
+          "similarid": "24",
+          "similarncientifico": "Leptodactylus apepyta",
+          "similarnvulgar": "Rana de bigotes",
+          "similarclave": "leptodactylus_apepyta"
+        }
+      ]
+    },
+    {
+      "id":"24",
+      "clave": "leptodactylus_apepyta",
+      "imagenes": [
+        {
+          "imagenesclave": "leptodactylus_apepyta",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "leptodactylus_apepyta1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "leptodactylus_apepyta2",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "leptodactylus_apepyta3",
+          "imagenescopyright": "L. Pereyra"
+        }
+      ],
+      "ncientifico": "Leptodactylus apepyta",
+      "nvulgar": "Rana de bigotes",
+      "familia": "Leptodactylidae",
+      "tamano": "Mediano (50 a 60 mm)",
+      "habitat": "Terrestre",
+      "habito": "Nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "outline",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso con dos a cuatro pliegues longitudinales. Coloración dorsal amarronada con bandas oscuras y región central de color bronce. El “bigote” es una banda oscura que va desde la punta del hocico hasta atrás del tímpano y por debajo de ésta una banda blanca que coincide con el borde del labio. Parte posterior de los muslos con bandas transversales oscuras. Vientre claro.",
+      "microhabitats": "Los machos cantan ocultos desde las cavidades que construyen a orilla de charcos temporarios.",
+      "rangoaltitud": "Hasta 1800 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Bolivia, Brasil, Paraguay y Uruguay",
+      "distriargentina": "Buenos Aires, Catamarca, Chaco, Chubut, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, Misiones, Río Negro, Salta, San Juan, San Luis, Santa Fé, Santiago del Estero y Tucumán",
+      "modoreproductivo": "Los huevos se depositan en nidos de espuma que son colocados en cuevas subterráneas que los machos construyen a la orilla de los cuerpos de agua. Los renacuajos pueden permanecer en la espuma hasta que una lluvia inunde sus cuevas para luego salir y completar su desarrollo en los charcos.",
+      "similares": [
+        {
+          "similarid": "18",
+          "similarncientifico": "Leptodactylus bufonius",
+          "similarnvulgar": "Rana de labios blancos",
+          "similarclave": "leptodactylus_bufonius"
+        },
+        {
+          "similarid": "19",
+          "similarncientifico": "Juveniles de Leptodactylus macrosternum",
+          "similarnvulgar": "Rana criolla",
+          "similarclave": "leptodactylus_macrosternum"
+        },
+        {
+          "similarid": "20",
+          "similarncientifico": "Leptodactylus elenae",
+          "similarnvulgar": "Rana marmorada",
+          "similarclave": "leptodactylus_elenae"
+        },
+        {
+          "similarid": "21",
+          "similarncientifico": "Leptodactylus fuscus",
+          "similarnvulgar": "Rana colorada",
+          "similarclave": "leptodactylus_fuscus"
+        },
+        {
+          "similarid": "22",
+          "similarncientifico": "Leptodactylus gracilis",
+          "similarnvulgar": "Rana hocicuda",
+          "similarclave": "leptodactylus_gracilis"
+        },
+        {
+          "similarid": "23",
+          "similarncientifico": "Leptodactylus latinasus",
+          "similarnvulgar": "Ranita de las banquinas",
+          "similarclave": "leptodactylus_latinasus"
+        }
+      ]
+    },
+    {
+      "id":"25",
+      "clave": "physalaemus_biligonigerus",
+      "imagenes": [
+        {
+          "imagenesclave": "physalaemus_biligonigerus",
+          "imagenescopyright": "Laura Pereyra"
+        }
+      ],
+      "ncientifico": "Physalaemus biligonigerus",
+      "nvulgar": "Rana llorona",
+      "familia": "Leptodactylidae",
+      "tamano": "Pequeño (35 a 40 mm)",
+      "habitat": "Terrestre y acuático",
+      "habito": "Diurno, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Cuerpo globoso y piel lisa. Coloración dorsal variable, de verdoso a amarronado, uniforme o con patrón de manchas. Línea glandular con forma de Ω en el dorso. Presenta glándulas ubicadas a los laterales del cuerpo sobre las caderas de color blanquecino con una mancha central oscura que asemeja un ojo. Vientre blanco.",
+      "microhabitats": "Se los encuentra en charcos, cursos de agua pequeños o lagunas, formando grandes coros muy fáciles de localizar. Los machos cantan sumergidos en los cuerpos de agua. Su canto se asemeja al llanto de un bebe.",
+      "rangoaltitud": "Hasta los 1400 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Bolivia, Paraguay, Uruguay, Brasil",
+      "distriargentina": "Buenos Aires, Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Misiones, Salta, San Luis, Santa Fe, Santiago del Estero y Tucumán",
+      "modoreproductivo": "Construyen nidos de espuma flotantes de tamaño pequeño (7 a 10 cm). Los machos baten una secreción de albúmina formando así la espuma donde quedan inmersos los huevos. Los construyen adheridos a palos, piedras o vegetación baja. Depositan entre 1000 y 1200 huevos de color blanco a gris que se confunden con la espuma.",
+      "similares": [
+        {
+          "similarid": "26",
+          "similarncientifico": "Physalaemus albonotatus",
+          "similarnvulgar": "Ranita llorona",
+          "similarclave": "physalaemus_albonotatus"
+        },
+        {
+          "similarid": "27",
+          "similarncientifico": "Pleuroderma borellii",
+          "similarnvulgar": "Ranita cuatro ojos",
+          "similarclave": "pleurodema_borellii"
+        },
+        {
+          "similarid": "28",
+          "similarncientifico": "Pleuroderma cinereum",
+          "similarnvulgar": "Ranita cuatro ojos de la puna",
+          "similarclave": "pleurodema_cinereum"
+        },
+        {
+          "similarid": "29",
+          "similarncientifico": "Pleurodema marmoratum",
+          "similarnvulgar": "Sapo veteado de cuatro ojos",
+          "similarclave": "pleurodema_marmoratum"
+        },
+        {
+          "similarid": "30",
+          "similarncientifico": "Pleurodema tucumanum",
+          "similarnvulgar": "Ranita cuatro ojos",
+          "similarclave": "pleurodema_tucumanum"
+        }
+      ]
+    },
+    {
+      "id":"26",
+      "clave": "physalaemus_albonotatus",
+      "imagenes": [
+        {
+          "imagenesclave": "physalaemus_albonotatus",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "physalaemus_albonotatus1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "physalaemus_albonotatus2",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "physalaemus_albonotatus3",
+          "imagenescopyright": "L. Pereyra"
+        }
+      ],
+      "ncientifico": "Physalaemus albonotatus",
+      "nvulgar": "Ranita llorona",
+      "familia": "Leptodactylidae",
+      "tamano": "Pequeño (27 a 32 mm)",
+      "habitat": "Terrestre y acuático",
+      "habito": "Diurno, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "outline",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración y patrón dorsal muy variable, desde ocre a verde oscuro, sin manchas o con manchas irregulares o formando complejos diseños. Posee una banda oscura en sus laterales desde la parte posterior del ojo hasta la mitad del abdomen. Vientre blancuzco salpicado de negro en el pecho.",
+      "microhabitats": "Se los encuentra en charcos, cursos de agua pequeños o lagunas, formando grandes coros muy fáciles de localizar. Cantan sumergidos en los cuerpos de agua o desde la costa entre la vegetación. Su canto se asemeja al llanto de un bebe reiterado a intervalos cortos.",
+      "rangoaltitud": "200 a 700 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Bolivia y probablemente en Paraguay",
+      "distriargentina": "Formosa, Jujuy, Salta y Santiago del Estero",
+      "modoreproductivo": "Construyen nidos de espuma flotantes de tamaño pequeño (7 a 10 cm). Los machos baten una secreción de albúmina formando así la espuma donde quedan inmersos los huevos. Los construyen adheridos a palos, piedras o vegetación baja. Depositan entre 700 y 1300 huevos de color blanco que se confunden con la espuma.",
+      "similares": [
+        {
+          "similarid": "25",
+          "similarncientifico": "Physalaemus biligonigerus",
+          "similarnvulgar": "Rana llorona",
+          "similarclave": "physalaemus_biligonigerus"
+        },
+        {
+          "similarid": "27",
+          "similarncientifico": "Pleuroderma borellii",
+          "similarnvulgar": "Ranita cuatro ojos",
+          "similarclave": "pleurodema_borellii"
+        },
+        {
+          "similarid": "28",
+          "similarncientifico": "Pleuroderma cinereum",
+          "similarnvulgar": "Ranita cuatro ojos de la puna",
+          "similarclave": "pleurodema_cinereum"
+        },
+        {
+          "similarid": "29",
+          "similarncientifico": "Pleurodema marmoratum",
+          "similarnvulgar": "Sapo veteado de cuatro ojos",
+          "similarclave": "pleurodema_marmoratum"
+        },
+        {
+          "similarid": "30",
+          "similarncientifico": "Pleurodema tucumanum",
+          "similarnvulgar": "Ranita cuatro ojos",
+          "similarclave": "pleurodema_tucumanum"
+        }
+      ]
+    },
+    {
+      "id":"27",
+      "clave": "pleurodema_borellii",
+      "audio ": "display: none;",
+      "imagenes": [
+        {
+          "imagenesclave": "pleurodema_borellii",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "pleurodema_borellii1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "pleurodema_borellii2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "pleurodema_borellii3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "pleurodema_borellii14",
+          "imagenescopyright": "L. Pereyra"
+        }
+      ],
+      "ncientifico": "Pleurodema borellii",
+      "nvulgar": "Ranita cuatro ojos",
+      "familia": "Leptodactylidae",
+      "tamano": "Mediano (40 a 55 mm)",
+      "habitat": "Terrestre y acuático",
+      "habito": "Diurno, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso amarronado con grandes manchas alargadas mas claras con contornos negros. Presenta glándulas ubicadas a los laterales del cuerpo sobre las caderas de color blanquecino con una mancha central oscura que asemeja un ojo. Vientre claro con manchas oscuras. Región de la ingle, posterior de los muslos y axilas de color amarillo.",
+      "microhabitats": "Los machos cantan en el agua flotando entre la vegetación de charcos poco profundos, generalmente formados por agua de lluvia. Es común observalos en las orillas inundadas de los caminos. Los machos forman coros numerosos que pueden ser detectados a gran distancia.",
+      "rangoaltitud": "400 a 3000 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina y Bolivia",
+      "distriargentina": "Catamarca, Córdoba, Jujuy, La Rioja, Salta y Tucumán",
+      "modoreproductivo": "Construyen nidos de espuma flotante de alrededor de 13 cm. Los machos baten una secreción de albúmina formando así la espuma donde quedan inmersos los huevos. Es común encontrarse con varios nidos adheridos entre sí formando una gran masa de espuma que puede cubrir el charco por completo. Depositan en cada nido cerca de 2000 huevos de color negro.",
+      "similares": [
+        {
+          "similarid": "25",
+          "similarncientifico": "Physalaemus biligonigerus",
+          "similarnvulgar": "Rana llorona",
+          "similarclave": "physalaemus_biligonigerus"
+        },
+        {
+          "similarid": "26",
+          "similarncientifico": "Pleuroderma albonotatus",
+          "similarnvulgar": "Ranita llorona",
+          "similarclave": "pleurodema_albonotatus"
+        },
+        {
+          "similarid": "28",
+          "similarncientifico": "Pleuroderma cinereum",
+          "similarnvulgar": "Ranita cuatro ojos de la puna",
+          "similarclave": "pleurodema_cinereum"
+        },
+        {
+          "similarid": "29",
+          "similarncientifico": "Pleurodema marmoratum",
+          "similarnvulgar": "Sapo veteado de cuatro ojos",
+          "similarclave": "pleurodema_marmoratum"
+        },
+        {
+          "similarid": "30",
+          "similarncientifico": "Pleurodema tucumanum",
+          "similarnvulgar": "Ranita cuatro ojos",
+          "similarclave": "pleurodema_tucumanum"
+        }
+      ]
+    },
+    {
+      "id":"28",
+      "clave": "pleurodema_cinereum",
+      "imagenes": [
+        {
+          "imagenesclave": "pleurodema_cinereum",
+          "imagenescopyright": "NombreyApellido"
+        },
+        {
+          "imagenesclave": "xxx_xxx",
+          "imagenescopyright": "NombreyApellido"
+        }
+      ],
+      "ncientifico": "Pleurodema cinereum",
+      "nvulgar": "Ranita cuatro ojos de la puna",
+      "familia": "Leptodactylidae",
+      "tamano": "Pequeño (35 a 45 mm)",
+      "habitat": "Terrestre",
+      "habito": "Nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso amarronado con manchas más oscuras alargadas. Presenta glándulas ubicadas a los laterales del cuerpo sobre las caderas de color blanquecino con una mancha central oscura que asemeja un ojo. Vientre blanco.",
+      "microhabitats": "Los machos cantan en el agua flotando entre la vegetación de charcos poco profundos, generalmente formados por agua de lluvia.",
+      "rangoaltitud": "1000 a 4200 msnm",
+      "ecoregion": "Monte de Sierras y Bolsones, Puna y Altos Andes",
+      "distrigeneral": "Bolivia, Argentina y Perú",
+      "distriargentina": "Jujuy y Salta",
+      "modoreproductivo": "Construyen nidos de espuma flotante de 8 a 10 cm. Los machos baten una secreción de albúmina formando así la espuma donde quedan inmersos los huevos. Los nidos son depositados sobre charcos poco profundos formados por la lluvia en zonas de altura. Es posible encontrarse con varios nidos adheridos entre sí formando una gran masa de espuma.",
+      "similares": [
+        {
+          "similarid": "25",
+          "similarncientifico": "Physalaemus biligonigerus",
+          "similarnvulgar": "Rana llorona",
+          "similarclave": "physalaemus_biligonigerus"
+        },
+        {
+          "similarid": "26",
+          "similarncientifico": "Pleuroderma albonotatus",
+          "similarnvulgar": "Ranita llorona",
+          "similarclave": "pleurodema_albonotatus"
+        },
+        {
+          "similarid": "27",
+          "similarncientifico": "Pleuroderma borellii",
+          "similarnvulgar": "Ranita cuatro ojos",
+          "similarclave": "pleurodema_borellii"
+        },
+        {
+          "similarid": "29",
+          "similarncientifico": "Pleurodema marmoratum",
+          "similarnvulgar": "Sapo veteado de cuatro ojos",
+          "similarclave": "pleurodema_marmoratum"
+        },
+        {
+          "similarid": "30",
+          "similarncientifico": "Pleurodema tucumanum",
+          "similarnvulgar": "Ranita cuatro ojos",
+          "similarclave": "pleurodema_tucumanum"
+        }
+      ]
+    },
+    {
+      "id":"29",
+      "clave": "pleurodema_marmoratum",
+      "imagenes": [
+        {
+          "imagenesclave": "pleurodema_marmoratum",
+          "imagenescopyright": "Diego Baldo"
+        }
+      ],
+      "ncientifico": "Pleurodema marmoratum",
+      "nvulgar": "Sapo veteado de cuatro ojos",
+      "familia": "Leptodactylidae",
+      "tamano": "Pequeño (30 a 35 mm)",
+      "habitat": "Terrestre",
+      "habito": "Diurno, nocturno, crepuscular",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso amarillento, gris a verde opaco con patrón de manchas brillantes más oscuras marrones. Vientre liso blanco o amarillento.",
+      "microhabitats": "Se los encuentra bajo piedras en zonas de altura.",
+      "rangoaltitud": "3200 a 5400 msnm",
+      "ecoregion": "Puna y Altos Andes",
+      "distrigeneral": "Perú, Bolivia, Chile y Argentina",
+      "distriargentina": "Jujuy",
+      "modoreproductivo": "No se conoce el modo reproductivo pero posiblemente depositen los huevos en masas gelatinosas en los cuerpos de agua.",
+      "similares": [
+        {
+          "similarid": "25",
+          "similarncientifico": "Physalaemus biligonigerus",
+          "similarnvulgar": "Rana llorona",
+          "similarclave": "physalaemus_biligonigerus"
+        },
+        {
+          "similarid": "26",
+          "similarncientifico": "Pleuroderma albonotatus",
+          "similarnvulgar": "Ranita llorona",
+          "similarclave": "pleurodema_albonotatus"
+        },
+        {
+          "similarid": "27",
+          "similarncientifico": "Pleuroderma borellii",
+          "similarnvulgar": "Ranita cuatro ojos",
+          "similarclave": "pleurodema_borellii"
+        },
+        {
+          "similarid": "28",
+          "similarncientifico": "Pleurodema cinereum",
+          "similarnvulgar": "Ranita cuatro ojos de la puna",
+          "similarclave": "pleurodema_cinereum"
+        },
+        {
+          "similarid": "30",
+          "similarncientifico": "Pleurodema tucumanum",
+          "similarnvulgar": "Ranita cuatro ojos",
+          "similarclave": "pleurodema_tucumanum"
+        }
+      ]
+    },
+    {
+      "id":"30",
+      "clave": "pleurodema_tucumanum",
+      "imagenes": [
+        {
+          "imagenesclave": "pleurodema_tucumanum",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "pleurodema_tucumanum1",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Pleurodema tucumanum",
+      "nvulgar": "Ranita cuatro ojos",
+      "familia": "Leptodactylidae",
+      "tamano": "Pequeño (40 a 45 mm)",
+      "habitat": "Terrestre",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso amarronado a rojizo con manchas o puntos negros. Presenta glándulas chatas y poco evidentes ubicadas a los laterales del cuerpo sobre las caderas cuya coloración no se destaca del resto del cuerpo. Vientre blanco inmaculado. Región de la ingle, posterior de los muslos y axilas de color anaranjado.",
+      "microhabitats": "Los machos cantan desde la costa o flotando en el interior de los cuerpos de agua temporarios.",
+      "rangoaltitud": "80 a 1300 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina",
+      "distriargentina": "Catamarca, Córdoba, Jujuy, La Rioja, Salta, San Juan, San Luis, Santiago del Estero y Tucumán",
+      "modoreproductivo": "Construyen nidos de espuma que colapsan al poco tiempo dejando una masa gelatinosa en donde los huevos se disponen en un solo plano.",
+      "similares": [
+        {
+          "similarid": "25",
+          "similarncientifico": "Physalaemus biligonigerus",
+          "similarnvulgar": "Rana llorona",
+          "similarclave": "physalaemus_biligonigerus"
+        },
+        {
+          "similarid": "26",
+          "similarncientifico": "Pleuroderma albonotatus",
+          "similarnvulgar": "Ranita llorona",
+          "similarclave": "pleurodema_albonotatus"
+        },
+        {
+          "similarid": "27",
+          "similarncientifico": "Pleuroderma borellii",
+          "similarnvulgar": "Ranita cuatro ojos",
+          "similarclave": "pleurodema_borellii"
+        },
+        {
+          "similarid": "28",
+          "similarncientifico": "Pleurodema cinereum",
+          "similarnvulgar": "Ranita cuatro ojos de la puna",
+          "similarclave": "pleurodema_cinereum"
+        },
+        {
+          "similarid": "29",
+          "similarncientifico": "Pleurodema marmoratum",
+          "similarnvulgar": "Sapo veteado de cuatro ojos",
+          "similarclave": "pleurodema_marmoratum"
+        }
+      ]
+    },
+    {
+      "id":"31",
+      "clave": "dermatonotus_muelleri",
+      "imagenes": [
+        {
+          "imagenesclave": "dermatonotus_muelleri",
+          "imagenescopyright": "M. Vaira"
+        },
+        {
+          "imagenesclave": "dermatonotus_muelleri1",
+          "imagenescopyright": "M. Vaira"
+        }
+      ],
+      "ncientifico": "Dermatonotus muelleri",
+      "nvulgar": "Sapito tacurú",
+      "familia": "Microhylidae",
+      "tamano": "Pequeño (40 a 50 mm)",
+      "habitat": "Fosorial",
+      "habito": "Nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Cuerpo globular, con una cabeza triangular pequeña separada del cuerpo por un pliegue nucal. Sus extremidades son muy cortas. La coloración del dorso es verde oliváceo, con extremidades y región ventral del cuerpo de color negro con manchas blancas.",
+      "microhabitats": "Es considerado un reproductor explosivo, dado que luego de fuertes lluvias los machos aparecen en los sitios reproductivos y toda la actividad dura unos pocos días. Los machos cantan sumergidos o semisumergidos. Pasa gran parte de su tiempo enterrado en hormigueros.",
+      "rangoaltitud": "Hasta 1500 msnm",
+      "ecoregion": "Chaco Seco",
+      "distrigeneral": "Argentina, Brasil, Bolivia, Paraguay",
+      "distriargentina": "Chaco, Corrientes, Formosa, Jujuy, Salta, Santa Fe y Santiago del Estero",
+      "modoreproductivo": "Deposita sus huevos en una película gelatinosa en la superficie del agua.",
+      "similares": [
+      ]
+    },
+    {
+      "id":"32",
+      "clave": "elachistocleis_haroi",
+      "imagenes": [
+        {
+          "imagenesclave": "elachistocleis_haroi",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "elachistocleis_haroi1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "elachistocleis_haroi2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "elachistocleis_haroi3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "elachistocleis_haroi4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Elachistocleis haroi",
+      "nvulgar": "Ranita aceituna",
+      "familia": "Microhylidae",
+      "tamano": "Pequeño (25 a 30 mm)",
+      "habitat": "Fosorial",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "outline",
+      "nov": "outline",
+      "dic": "fill",
+      "caracteristicas": "Cuerpo ovalado y cabeza relativamente chica y triangular. Dorso de color marrón grisáceo con patrón de manchas mas oscuras similar a la forma de un pino, dividida al medio por una línea amarilla brillante que se extiende desde la cabeza hasta la cloaca. A la altura de la cloaca, ésta línea se une con otra línea amarilla bien definida que recorre los muslos y las tibias. Vientre blanco amarillento.",
+      "microhabitats": "Se reproducen en charcos temporarios, los machos cantan semisumergidos sacando sólo su hocico, generalmente agarrado a la vegetación del cuerpo de agua",
+      "rangoaltitud": "Xxxx",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Bolivia, posiblemente en Paraguay",
+      "distriargentina": "Jujuy, Salta y Formosa",
+      "modoreproductivo": "Masa de huevos depositada en una capa fina sobre la superficie del agua, completamente expuesta. Huevos negros y cápsula con aspecto lenticular.",
+      "similares": [
+        {
+          "similarid": "33",
+          "similarncientifico": "Elachistocleis skotogaster",
+          "similarnvulgar": "Ranita aceituna panza negra",
+          "similarclave": "elachistocleis_skotogaster"
+        }
+      ]
+    },
+    {
+      "id":"33",
+      "clave": "elachistocleis_skotogaster",
+      "imagenes": [
+        {
+          "imagenesclave": "elachistocleis_skotogaster",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "elachistocleis_skotogaster1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "elachistocleis_skotogaster2",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "elachistocleis_skotogaster3",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "elachistocleis_skotogaster4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Elachistocleis skotogaster",
+      "nvulgar": "Ranita aceituna panza negra",
+      "familia": "Microhylidae",
+      "tamano": "Pequeño (28 a 35 mm)",
+      "habitat": "Fosorial",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Cuerpo ovalado y cabeza relativamente chica y triangular, separada del resto del cuerpo por un pliegue nucal. Dorso de color castaño oscuro con puntos negros y blancos. Vientre gris con un leve punteado marrón. La parte oculta de los muslos y axilas presenta una coloración naranja intenso. Una línea amarilla o anaranjada recorre los muslos y las tibias.",
+      "microhabitats": "Se reproducen en charcos temporarios, los machos cantan semisumergidos sacando sólo su hocico, generalmente agarrado a la vegetación del cuerpo de agua",
+      "rangoaltitud": "137 a 1675 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina",
+      "distriargentina": "Jujuy, Salta y Formosa",
+      "modoreproductivo": "Masa de huevos depositada en una capa fina sobre la superficie del agua, completamente expuesta. Huevos negros y cápsula con aspecto lenticular.",
+      "similares": [
+        {
+          "similarid": "32",
+          "similarncientifico": "Elachistocleis haroi",
+          "similarnvulgar": "Ranita aceituna",
+          "similarclave": "elachistocleis_haroi"
+        }
+      ]
+    },
+    {
+      "id":"34",
+      "clave": "odontophrynus_americanus",
+      "imagenes": [
+        {
+          "imagenesclave": "odontophrynus_americanus",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "odontophrynus_americanus1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "odontophrynus_americanus2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "odontophrynus_americanus3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "odontophrynus_americanus4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Odontophrynus americanus",
+      "nvulgar": "Escuercito",
+      "familia": "Odontophrynae",
+      "tamano": "Mediano (60 a 70 mm)",
+      "habitat": "Terrestre y fosorial",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Cuerpo globoso y miembros cortos. Dorso con coloración que varía de marrón a amarillo con numerosas manchas irregulares más oscuras. Piel dorsal rugosa y granular. Línea media clara en el dorso. Vientre granuloso, grisáceo a blanco. En la planta de las patas traseras con un tubérculo en forma de pala.",
+      "microhabitats": "Sus apariciones son repentinas coincidiendo con lluvias fuertes. Se los observa cantando dentro de los cuerpos de agua o semienterrado a orillas de los cuerpos de agua. Los encontramos en arroyos, charcos profundos, lagunas o acequias de riego.",
+      "rangoaltitud": "0 a 2000 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Brazil, Paraguay, Uruguay y posiblemente Bolivia",
+      "distriargentina": "Buenos Aires, Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Misiones, Río Negro, Salta, San Luis, Santa Fe, Santiago del Estero y Tucumán",
+      "modoreproductivo": "Los huevos de coloración negra son colocados sueltos directamente sobre el fondo del cuerpo de agua.",
+      "similares": [
+        {
+          "similarid": "35",
+          "similarncientifico": "Odontophrynus lavillai",
+          "similarnvulgar": "Escuercito",
+          "similarclave": "odontophrynus_lavillai"
+        }
+      ]
+    },
+    {
+      "id":"35",
+      "clave": "odontophrynus_lavillai",
+      "imagenes": [
+        {
+          "imagenesclave": "odontophrynus_lavillai",
+          "imagenescopyright": "NombreyApellido"
+        },
+        {
+          "imagenesclave": "xxx_xxx",
+          "imagenescopyright": "NombreyApellido"
+        }
+      ],
+      "ncientifico": "Odontophrynus lavillai",
+      "nvulgar": "Escuercito",
+      "familia": "Odontophrynae",
+      "tamano": "Mediano (60 a 70 mm)",
+      "habitat": "Terrestre y fosorial",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración del dorso marrón con numerosas manchas irregulares más blanquecinos-amarillentas o anaranjadas, alternando con grandes manchas de color marrón oscuro. Piel dorsal rugosa y granular. No posee línea media clara en el dorso. Vientre negruzco con gránulos blancos redondeados. Muy similar a O. americanus, se diferencia del mismo por poseer pupila rómbica. ",
+      "microhabitats": "Sus apariciones son repentinas coincidiendo con lluvias fuertes. Se los observa cantando dentro de los cuerpos de agua o semienterrado a orillas de los cuerpos de agua.",
+      "rangoaltitud": "150 a 2100 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Argentina, Bolivia, Brasil y Paraguay",
+      "distriargentina": "Catamarca, Chaco, Formosa, Jujuy, Salta, Santa Fe, Santiago del Estero",
+      "modoreproductivo": "Los huevos son colocados sueltos directamente sobre el fondo del cuerpo de agua.",
+      "similares": [
+        {
+          "similarid": "34",
+          "similarncientifico": "Odontophrynus americanus",
+          "similarnvulgar": "Escuercito",
+          "similarclave": "odontophrynus_americanus"
+        }
+      ]
+    },
+    {
+      "id":"36",
+      "clave": "phyllomedusa_boliviana",
+      "imagenes": [
+        {
+          "imagenesclave": "phyllomedusa_boliviana",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "phyllomedusa_boliviana1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "phyllomedusa_boliviana2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "phyllomedusa_boliviana3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "phyllomedusa_boliviana4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Phyllomedusa boliviana",
+      "nvulgar": "Rana mono yungueña",
+      "familia": "Phyllomedusidae",
+      "tamano": "Mediano (65 a 80 mm)",
+      "habitat": "Arborícola",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#ffcc00",
+      "abundancia": "#cddc39",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "outline",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso verde uniforme, vientre blanco y liso. Ojos grandes y prominentes. Posee una mancha a modo de ceja de color rojo intenso. Dedo pulgar de manos y patas oponibles.",
+      "microhabitats": "Los machos cantan desde la vegetación que se encuentra por encima de los cuerpos de agua.",
+      "rangoaltitud": "200 a 1800 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Bolivia, Brasil y Argentina",
+      "distriargentina": "Jujuy y Salta",
+      "modoreproductivo": "Colocan los huevos dentro nidos que construyen plegando una hoja de grande o varias hojas de tamaño pequeño. Los nidos son depositado en la vegetación que se encuentra por encima de cuerpos de agua.",
+      "similares": [
+        {
+          "similarid": "37",
+          "similarncientifico": "Phyllomedusa sauvagii",
+          "similarnvulgar": "Rana mono",
+          "similarclave": "phyllomedusa_sauvagii"
+        }
+      ]
+    },
+    {
+      "id":"37",
+      "clave": "phyllomedusa_sauvagii",
+      "imagenes": [
+        {
+          "imagenesclave": "phyllomedusa_sauvagii",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "phyllomedusa_sauvagii1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "phyllomedusa_sauvagii2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "phyllomedusa_sauvagii3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "phyllomedusa_sauvagii4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Phyllomedusa sauvagii",
+      "nvulgar": "Rana mono",
+      "familia": "Phyllomedusidae",
+      "tamano": "Mediano (65 a 96 mm)",
+      "habitat": "Arborícola",
+      "habito": "Crepuscular, nocturno",
+      "conservauicn": "#4cd964",
+      "conservaarg": "#4cd964",
+      "abundancia": "#cddc39",
+      "dvisual": "#4cd964",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "outline",
+      "abr": "outline",
+      "may": "outline",
+      "jun": "outline",
+      "jul": "outline",
+      "ago": "outline",
+      "sep": "outline",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Dorso verde uniforme. Vientre verde con manchas irregulares blancas con rebordes oscuros. Dedo pulgar de manos y patas oponibles.",
+      "microhabitats": "Los machos cantan desde la vegetación que se encuentra por encima de los cuerpos de agua.",
+      "rangoaltitud": "Hasta los 1500 msnm",
+      "ecoregion": "Chaco Seco y Yungas",
+      "distrigeneral": "Bolivia, Paraguay, Brasil y Argentina",
+      "distriargentina": "Chaco, Córdoba, Corrientes, Formosa, Jujuy, La Rioja, Salta, San Juan, San Luis, Santa Fe, Santiago del Estero y Tucumán.",
+      "modoreproductivo": "Colocan los huevos dentro nidos que construyen plegando una hoja de grande o varias hojas de tamaño pequeño. Los nidos son depositados en la vegetación que se encuentra por encima de cuerpos de agua.",
+      "similares": [
+        {
+          "similarid": "36",
+          "similarncientifico": "Phyllomedusa boliviana",
+          "similarnvulgar": "Rana mono yungueña",
+          "similarclave": "phyllomedusa_boliviana"
+        }
+      ]
+    },
+    {
+      "id":"38",
+      "clave": "telmatobius_hypselocephalus",
+      "audio ": "display: none;",
+      "imagenes": [
+        {
+          "imagenesclave": "telmatobius_hypselocephalus",
+          "imagenescopyright": "Diego Baldo"
+        }
+      ],
+      "ncientifico": "Telmatobius hypselocephalus",
+      "nvulgar": "Rana acuática Yungueña",
+      "familia": "Telmatobiidae",
+      "tamano": "Mediano (58 a 68 mm)",
+      "habitat": "Acuático",
+      "habito": "Nocturno",
+      "conservauicn": "#ff9500",
+      "conservaarg": "#ffcc00",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "fill",
+      "may": "fill",
+      "jun": "fill",
+      "jul": "fill",
+      "ago": "fill",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal marrón verdoso oscuro uniforme. Piel dorsal con verrugas aplanadas, con espinas muy pequeñas. Piel ventral lisa, con espinillas córneas a ambos lados del pecho. Coloración ventral de color verdoso claro, con algunas manchas naranjas en las patas traseras. Piel de aspecto húmedo. Membrana entre los dedos en las patas traseras.",
+      "microhabitats": "Se los observa en el agua en arroyos de alta montaña en sólo dos localidades de Jujuy, El Moreno y El Angosto, Departamento Tumbaya.",
+      "rangoaltitud": "3500 - 3600 msnm",
+      "ecoregion": "Puna",
+      "distrigeneral": "Argentina",
+      "distriargentina": "Jujuy",
+      "modoreproductivo": "No se conoce el modo reproductivo, pero se sospecha que al igual que otros integrantes del género depositan masas de huevos insertos en una capa gelatinosa debajo de piedras en arroyos de montaña.",
+      "similares": [
+        {
+          "similarid": "39",
+          "similarncientifico": "Telmatobius marmoratus",
+          "similarnvulgar": "Rana acuática",
+          "similarclave": "telmatobius_marmoratus"
+        },
+        {
+          "similarid": "40",
+          "similarncientifico": "Telmatobius oxycephalus",
+          "similarnvulgar": "Rana acuática",
+          "similarclave": "telmatobius_oxycephalus"
+        },
+        {
+          "similarid": "41",
+          "similarncientifico": "Telmatobius platycephalus",
+          "similarnvulgar": "Rana acuática marmolada",
+          "similarclave": "telmatobius_platycephalus"
+        },
+        {
+          "similarid": "42",
+          "similarncientifico": "Telmatobius rubigo",
+          "similarnvulgar": "Rana herrumbrada de Pozuelos",
+          "similarclave": "telmatobius_rubigo"
+        }
+      ]
+    },
+    {
+      "id":"39",
+      "clave": "telmatobius_marmoratus",
+      "audio ": "display: none;",
+      "imagenes": [
+        {
+          "imagenesclave": "telmatobius_marmoratus",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_marmoratus1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_marmoratus2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_marmoratus3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_marmoratus4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Telmatobius marmoratus",
+      "nvulgar": "Rana acuática",
+      "familia": "Telmatobiidae",
+      "tamano": "Mediano (55 a 63 mm)",
+      "habitat": "Acuático y terrestre",
+      "habito": "Nocturno",
+      "conservauicn": "#ffcc00",
+      "conservaarg": "#ffcc00",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "fill",
+      "may": "fill",
+      "jun": "fill",
+      "jul": "fill",
+      "ago": "fill",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal marrón o grisácea, con manchas más oscuras irregulares. Piel dorsal muy glandular. Coloración ventral amarillenta con manchas grises en las patas traseras. Tímpano ausente. Piel de aspecto húmedo. Membrana entre los dedos en las patas traseras.",
+      "microhabitats": "Se los observa en el agua en arroyos de alta montaña en la cuenca alta del Río Grande (desde Uquía), Yavi, Santa Catalina, Abra Pampa y La Quiaca.",
+      "rangoaltitud": "3300 - 4000 msnm",
+      "ecoregion": "Yungas y Montes de Sierras y Bolsones",
+      "distrigeneral": "Perú, Bolivia, Chile y Argentina",
+      "distriargentina": "Jujuy",
+      "modoreproductivo": "No se conoce el modo reproductivo, pero se sospecha que al igual que otros integrantes del género depositan masas de huevos insertos en una capa gelatinosa debajo de piedras en arroyos de montaña.",
+      "similares": [
+        {
+          "similarid": "38",
+          "similarncientifico": "Telmatobius hypselocephalus",
+          "similarnvulgar": "Rana acuática Yungueña",
+          "similarclave": "telmatobius_hypselocephalus"
+        },
+        {
+          "similarid": "40",
+          "similarncientifico": "Telmatobius oxycephalus",
+          "similarnvulgar": "Rana acuática",
+          "similarclave": "telmatobius_oxycephalus"
+        },
+        {
+          "similarid": "41",
+          "similarncientifico": "Telmatobius platycephalus",
+          "similarnvulgar": "Rana acuática marmolada",
+          "similarclave": "telmatobius_platycephalus"
+        },
+        {
+          "similarid": "42",
+          "similarncientifico": "Telmatobius rubigo",
+          "similarnvulgar": "Rana herrumbrada de Pozuelos",
+          "similarclave": "telmatobius_rubigo"
+        }
+      ]
+    },
+    {
+      "id":"40",
+      "clave": "telmatobius_oxycephalus",
+      "audio ": "display: none;",
+      "imagenes": [
+        {
+          "imagenesclave": "telmatobius_oxycephalus",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "telmatobius_oxycephalus1",
+          "imagenescopyright": "L. Pereyra"
+        },
+        {
+          "imagenesclave": "telmatobius_oxycephalus2",
+          "imagenescopyright": "L. Pereyra"
+        }
+      ],
+      "ncientifico": "Telmatobius oxycephalus",
+      "nvulgar": "Rana acuática",
+      "familia": "Telmatobiidae",
+      "tamano": "Mediano (45 a 57 mm)",
+      "habitat": "Acuático",
+      "habito": "Nocturno",
+      "conservauicn": "#ff9500",
+      "conservaarg": "#ff9500",
+      "abundancia": "#4cd964",
+      "dvisual": "#ff3b30",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "fill",
+      "may": "fill",
+      "jun": "fill",
+      "jul": "fill",
+      "ago": "fill",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal amarronado a gris oscuro uniforme. Dorso verrugoso con espinas córneas con excepción de los miembros, que son espinosos pero sin verrugas. Piel ventral lisa y sin espinas. Coloración ventral clara con manchas muy notables de color amarillo a naranja intenso en la zona abdominal y de las patas. Patas traseras con membranas entre los dedos.",
+      "microhabitats": "Pasan la mayor parte del tiempo bajo piedras en arroyos de altura. Sin embargo, es posible encontrarlos durante el día en el borde de los arroyos sobre grandes piedras o sobre troncos.",
+      "rangoaltitud": "1400 a 2700 msnm",
+      "ecoregion": "Puna",
+      "distrigeneral": "Argentina",
+      "distriargentina": "Jujuy y Salta",
+      "modoreproductivo": "Depositan masas de huevos insertos en una capa gelatinosa debajo de piedras en arroyos de montaña.",
+      "similares": [
+        {
+          "similarid": "38",
+          "similarncientifico": "Telmatobius hypselocephalus",
+          "similarnvulgar": "Rana acuática Yungueña",
+          "similarclave": "telmatobius_hypselocephalus"
+        },
+        {
+          "similarid": "39",
+          "similarncientifico": "Telmatobius marmoratus",
+          "similarnvulgar": "Rana acuática",
+          "similarclave": "telmatobius_marmoratus"
+        },
+        {
+          "similarid": "41",
+          "similarncientifico": "Telmatobius platycephalus",
+          "similarnvulgar": "Rana acuática marmolada",
+          "similarclave": "telmatobius_platycephalus"
+        },
+        {
+          "similarid": "42",
+          "similarncientifico": "Telmatobius rubigo",
+          "similarnvulgar": "Rana herrumbrada de Pozuelos",
+          "similarclave": "telmatobius_rubigo"
+        }
+      ]
+    },
+    {
+      "id":"41",
+      "clave": "telmatobius_platycephalus",
+      "audio ": "display: none;",
+      "imagenes": [
+        {
+          "imagenesclave": "telmatobius_platycephalus",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_platycephalus1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_platycephalus2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_platycephalus3",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Telmatobius platycephalus",
+      "nvulgar": "Rana acuática marmolada",
+      "familia": "Telmatobiidae",
+      "tamano": "Mediano (58 a 61 mm)",
+      "habitat": "Acuático",
+      "habito": "Nocturno",
+      "conservauicn": "#ff9500",
+      "conservaarg": "#ffcc00",
+      "abundancia": "#cddc39",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "fill",
+      "may": "fill",
+      "jun": "fill",
+      "jul": "fill",
+      "ago": "fill",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal gris verdoso con pequeñas manchas más oscuras, de forma irregular y aleatoriamente distribuidas, en la zona central de la espalda con manchas más grandes. Piel dorsal con verrugas en la zona posterior y con pocas espinas en los miembros posteriores. Piel ventral lisa. Límite muy marcado entre la piel ventral y la dorsal. Vientre de color crema con zonas amarillas debajo de las piernas y pequeñas manchas irregulares gris en la región axilar. Patas traseras con membranas entre los dedos.",
+      "microhabitats": "Se los observa en el agua en arroyos de alta montaña en sólo tres localidades de Jujuy: El Moreno, El Angosto y San José de Chani, Departamento Tumbaya.",
+      "rangoaltitud": "3600 a 3750 msnm",
+      "ecoregion": "Montes de Sierras y Bolsones y Puna",
+      "distrigeneral": "Argentina",
+      "distriargentina": "Jujuy",
+      "modoreproductivo": "No se conoce el modo reproductivo, pero se sospecha que al igual que otros integrantes del género depositan masas de huevos insertos en una capa gelatinosa debajo de piedras en arroyos de montaña.",
+      "similares": [
+        {
+          "similarid": "38",
+          "similarncientifico": "Telmatobius hypselocephalus",
+          "similarnvulgar": "Rana acuática Yungueña",
+          "similarclave": "telmatobius_hypselocephalus"
+        },
+        {
+          "similarid": "39",
+          "similarncientifico": "Telmatobius marmoratus",
+          "similarnvulgar": "Rana acuática",
+          "similarclave": "telmatobius_marmoratus"
+        },
+        {
+          "similarid": "40",
+          "similarncientifico": "Telmatobius oxycephalus",
+          "similarnvulgar": "Rana acuática",
+          "similarclave": "telmatobius_oxycephalus"
+        },
+        {
+          "similarid": "42",
+          "similarncientifico": "Telmatobius rubigo",
+          "similarnvulgar": "Rana herrumbrada de Pozuelos",
+          "similarclave": "telmatobius_rubigo"
+        }
+      ]
+    },
+    {
+      "id":"42",
+      "clave": "telmatobius_rubigo",
+      "audio ": "display: none;",
+      "imagenes": [
+        {
+          "imagenesclave": "telmatobius_rubigo",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_rubigo1",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_rubigo2",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_rubigo3",
+          "imagenescopyright": "M. Akmentins"
+        },
+        {
+          "imagenesclave": "telmatobius_rubigo4",
+          "imagenescopyright": "M. Akmentins"
+        }
+      ],
+      "ncientifico": "Telmatobius rubigo",
+      "nvulgar": "Rana herrumbrada de Pozuelos",
+      "familia": "Telmatobiidae",
+      "tamano": "Mediano (40 a 54 mm)",
+      "habitat": "Acuático",
+      "habito": "Nocturno",
+      "conservauicn": "#ffcc00",
+      "conservaarg": "#ffcc00",
+      "abundancia": "#cddc39",
+      "dvisual": "#ffcc00",
+      "dauditiva": "#4cd964",
+      "ene": "fill",
+      "feb": "fill",
+      "mar": "fill",
+      "abr": "fill",
+      "may": "fill",
+      "jun": "fill",
+      "jul": "fill",
+      "ago": "fill",
+      "sep": "fill",
+      "oct": "fill",
+      "nov": "fill",
+      "dic": "fill",
+      "caracteristicas": "Coloración dorsal verde grisáceo, uniforme o con manchas grises más oscuras, siempre salpicados de manchas anaranjadas similares a liquenes. Coloración ventral naranja pálido, superficies ventrales de las extremidades de color naranja, amarillo y rojizo.",
+      "microhabitats": "Se los observa en el agua en arroyos de alta montaña en toda la cuenca de la Laguna de Los Pozuelos.",
+      "rangoaltitud": "3800 a 3966 msnm",
+      "ecoregion": "Puna",
+      "distrigeneral": "Argentina",
+      "distriargentina": "Jujuy",
+      "modoreproductivo": "Depositan masas de huevos insertos en una capa gelatinosa debajo de piedras en arroyos de montaña.",
+      "similares": [
+        {
+          "similarid": "38",
+          "similarncientifico": "Telmatobius hypselocephalus",
+          "similarnvulgar": "Rana acuática Yungueña",
+          "similarclave": "telmatobius_hypselocephalus"
+        },
+        {
+          "similarid": "39",
+          "similarncientifico": "Telmatobius marmoratus",
+          "similarnvulgar": "Rana acuática",
+          "similarclave": "telmatobius_marmoratus"
+        },
+        {
+          "similarid": "40",
+          "similarncientifico": "Telmatobius oxycephalus",
+          "similarnvulgar": "Rana acuática",
+          "similarclave": "telmatobius_oxycephalus"
+        },
+        {
+          "similarid": "41",
+          "similarncientifico": "Telmatobius platycephalus",
+          "similarnvulgar": "Rana acuática marmolada",
+          "similarclave": "telmatobius_platycephalus"
+        }
+      ]
+    }
+  ]
