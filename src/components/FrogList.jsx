@@ -1,10 +1,13 @@
 import React, { useContext, useState } from "react";
 import { FrogContext } from "../context/FrogContext";
-import { Button, Modal, Carousel, Row, Col } from "react-bootstrap";
+
+
+import BlockUI from "./BlockUI";
 import ListItem from "./ListItem";
+
+
 import Waveform from "./shared/wavesurfer/WaveForm";
 import CustomToast from "./shared/CustomToast";
-import "../css/app.css";
 import {
   valAbundancia,
   valConservaarg,
@@ -13,23 +16,42 @@ import {
   valDvisual,
   colores,
 } from "../helpers/constants";
-import BlockUI from "./BlockUI";
+
+
+import { 
+  Button, 
+  Modal, 
+  Carousel, 
+  Row, 
+  Col 
+} from "react-bootstrap";
+import "../css/app.css";
+
+
+
 
 const FrogList = () => {
+
   const { frogs, frogsDetail } = useContext(FrogContext);
+
   const [show, setShow] = useState(false);
-  const [showPeriodToast, setShowPeriodToast] = useState(false);
-  const [showIndicatorToast, setShowIndicatorToast] = useState(false);
-  const [indicatorTitle, setIndicatorTitle] = useState("");
-  const [indicatorMessage, setIndicatorMessage] = useState("");
-  const [toastHeaderColor, setToastHeaderColor] = useState("toast-header");
-  const [showSectionTitleToast,setShowSectionTitleToast] = useState(false);
-  const [sectionTitleTitle, setSectionTitleTitle] = useState("");
-  const [sectionTitleMessage, setSectionTitleMessage] = useState("");
-  const [frogDetail, setFrogDetail] = useState({});
-  const [index, setIndex] = useState(0);
   const [pause, setPause] = useState(false);
   const [blocking, setBlocking] = useState(false);
+  const [showPeriodToast, setShowPeriodToast] = useState(false);
+  const [showIndicatorToast, setShowIndicatorToast] = useState(false);
+  const [showSectionTitleToast,setShowSectionTitleToast] = useState(false);
+  
+
+  const [indicatorTitle, setIndicatorTitle] = useState("");
+  const [indicatorMessage, setIndicatorMessage] = useState("");
+  const [sectionTitleTitle, setSectionTitleTitle] = useState("");
+  const [sectionTitleMessage, setSectionTitleMessage] = useState("");
+  const [toastHeaderColor, setToastHeaderColor] = useState("toast-header");
+
+  const [frogDetail, setFrogDetail] = useState({});
+
+  const [index, setIndex] = useState(0);
+  
 
   const handleBlockClicker = () => {
     setBlocking(!blocking);
@@ -52,6 +74,7 @@ const FrogList = () => {
     setShowSectionTitleToast(false);
     setShow(false);
   };
+
   const handleShow = () => setShow(true);
 
   const handleClick = (frogid) => {
@@ -66,15 +89,17 @@ const FrogList = () => {
     setTimeout(handleShow, 200);
   };
 
+
   const tryGetImage = (imageClave) => {
     try {
-      return require(`../assets/images/especies/${imageClave}.jpg`).default;
+      return require(`../assets/images/especies/${imageClave}.jpg`);
     } catch (err) {
       return require(`../assets/images/especies/default.jpg`).default;
     }
   };
 
   const tryGetMapImage = (map) => {
+    console.log(map)
     try {
       return require(`../assets/images/mapas/${map}.svg`).default;
     } catch (err) {
@@ -130,6 +155,7 @@ const FrogList = () => {
     setToastHeaderColor(colorClassName);
     setIndicatorTitle(title);
     setIndicatorMessage(desc);
+
     if (showPeriodToast) {
       setShowPeriodToast(false);
       }
@@ -224,6 +250,13 @@ const FrogList = () => {
   const hasFill = (month) => {
     return month === "fill";
   };
+
+
+
+
+
+
+
 
   return (
     <div className="container-frogs">

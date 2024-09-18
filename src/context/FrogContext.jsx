@@ -2,16 +2,23 @@ import React, { createContext, useEffect, useState } from "react";
 
 export const FrogContext = createContext();
 
+
 const FrogProvider = (props) => {
+  
+
   const [showLoad, setShowLoad] = useState(false); 
+  
   const [frogs, setFrogs] = useState([]);
-  const [frogsDetail, setFrogDetails] = useState([]);
   const [frogsBase, setFrogsBase] = useState([]);
+  const [frogsDetail, setFrogDetails] = useState([]);
+  
   const [searchKey, setSearchKey] = useState("");
 
+  
   const search = (event) => {
     setSearchKey(event.target.value);
   };
+
 
   useEffect(() => {
     if (searchKey.length >= 0) {
@@ -23,10 +30,15 @@ const FrogProvider = (props) => {
       );
       
       setFrogs(filterFrogs);
+
     } else {
+
       setFrogs(frogsBase);
+
     }
+
   }, [searchKey, frogsBase]);
+
 
   useEffect(() => {
     const data = require("../assets/json-header/header.json");
@@ -35,6 +47,7 @@ const FrogProvider = (props) => {
     loadFrogsDetails(data);
     setShowLoad(true);
   }, []);
+
 
   const loadFrogsDetails = (data) => {
     let frogsDetail = [];
@@ -45,15 +58,16 @@ const FrogProvider = (props) => {
     setFrogDetails(frogsDetail);
   };
 
+
   return (
     <FrogContext.Provider
       value={{
-        frogs,
-        search,
-        frogsDetail,
-        showLoad,
-        setSearchKey,
-        searchKey
+        search,      //Funcion
+        setSearchKey,//Funcion modificadora de estado local
+        frogs,       //Estado local
+        frogsDetail, //Estado local
+        showLoad,    //Estado local
+        searchKey    //Estado local
       }}
     >
       {props.children}

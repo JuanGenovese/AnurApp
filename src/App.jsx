@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import FrogList from './components/FrogList';
-import Header from './components/Header';
+import Header from './components/Header/Header';
 import Loading from './components/Loading';
 import FrogProvider from './context/FrogContext';
 import './css/app.css';

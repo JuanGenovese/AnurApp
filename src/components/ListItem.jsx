@@ -7,7 +7,7 @@ import '../css/app.css';
 const ListItem = ({frog,handleShow,handleClick}) => {
   const tryGetImage=()=>{
     try{
-      return require(`../assets/images/especies/${frog.url_image}.jpg`).default;
+      return require(`../assets/images/especies/${frog.url_image}.jpg`);
     }catch(err){
       return require(`../assets/images/especies/default.jpg`).default;
     }

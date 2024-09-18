@@ -1,21 +1,33 @@
 import React, { useContext, useState } from "react";
-import { FrogContext } from "../context/FrogContext";
-import { Form, Navbar } from "react-bootstrap";
-import '../css/app.css'
+
+import { FrogContext } from "../../../context/FrogContext";
+
+import { 
+  Form, 
+  Navbar 
+} from "react-bootstrap";
+import '../../../css/app.css'
+
 
 const SearchFrog = () => {
+
   const { search, setSearchKey, searchKey } = useContext(FrogContext);
+
   const [showInput, setShowInput] = useState(false);
   const [firstLoad, setFirstLoad] = useState(true)
+
+
 
   const reloadSearch = () => {
     setSearchKey("");
   };
 
+
   const handleShowSearch = () => {
     setFirstLoad(false);
     setShowInput(!showInput);
   };
+
 
   const handleHideSearch = () => {
     setShowInput(!showInput);
@@ -23,7 +35,6 @@ const SearchFrog = () => {
   };
 
     
-  
 
   
 
@@ -36,7 +47,7 @@ const SearchFrog = () => {
               alt="back arrow" 
               onClick={()=> handleHideSearch()} 
               className="search-indicator" 
-              src={require("../assets/icons/back-arrow.svg").default} 
+              src={require("../../../assets/icons/back-arrow.svg").default} 
             />
             <input
               className="input-search-style ml-4"
@@ -59,7 +70,7 @@ const SearchFrog = () => {
                 alt="search icon" 
                 onClick={()=> handleShowSearch()}
                 className="search-indicator" 
-                src={require("../assets/icons/search.svg").default} 
+                src={require("../../../assets/icons/search.svg").default} 
               />
             <p>
         </p>
